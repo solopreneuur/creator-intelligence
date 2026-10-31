@@ -4,8 +4,9 @@ A plain-English model of what interests you and why. The weekly run rewrites it
 from the week's signals. You can correct it by hand at any time. About a quarter
 of each run (the wildcards) ignores this file on purpose.
 
-Last rewritten: 2026-10-31 (starting profile, written from DESIGN.md before any
-signals)
+Last rewritten: 2026-10-31 (first weekly run; still the starting profile — the
+week behind it is the launch day itself, with no reply signals yet to rewrite
+it by)
 
 ## What you're after
 
@@ -52,4 +53,8 @@ is the check. Quotes are the exception: real person, real clip, timestamp.
 
 ## Signals so far
 
-None yet.
+None yet. Week of 2026-10-26: 30 cards shown on 2026-10-31 (6 featured, 7
+wildcards, spread across all three pools and nine shapes), but zero replies
+logged, so there's nothing yet to weight concepts, shapes or bridge styles by.
+Silence is neutral, not a signal against anything shown. Revisit once the first
+replies come in.

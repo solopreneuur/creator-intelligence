@@ -20,6 +20,11 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] Orla Watson and the nesting cart · person · marketing · the telescoping cart that made Goldman's invention scale · added 2026-10-31 (from 2026-10-31-02-shopping-cart-fake-shoppers)
 - [ ] Coca-Cola contour bottle brief (1915) · patent · marketing · a bottle recognisable in the dark or broken on the ground · added 2026-10-31 (rejected candidate, C02)
 - [ ] Guinness "Surfer" ad (1999) · campaign · marketing · how the "wait" idea was dramatised, and the fast-pour tap test that followed · added 2026-10-31 (from 2026-10-31-09-guinness-slow-pour-reframe)
+- [ ] Dan Siroker and Optimizely · person · marketing · ran the 2008 Obama campaign's "Learn More" button test before co-founding Optimizely on the back of it · added 2026-10-31 (from 2026-10-31-18-obama-learn-more-button)
+- [ ] Loren Brichter's Tweetie · person · marketing · what else the one-man app he sold to Twitter shipped before pull-to-refresh · added 2026-10-31 (from 2026-10-31-30-pull-to-refresh-regret)
+- [ ] Gillis Lundgren saws a table's legs off · person · marketing · the car-boot sketch that invented flat-pack furniture at IKEA · added 2026-10-31 (week of 2026-10-26, gap: no flat-pack-origin card yet)
+- [ ] Repricing algorithms named in other antitrust suits · concept · marketing · whether rivals of Amazon have had their own "Project Nessie" exposed in litigation · added 2026-10-31 (from 2026-10-31-19-amazon-project-nessie)
+- [ ] N.W. Ayer and "A Diamond Is Forever" (De Beers, 1947) · campaign · marketing · the agency line that manufactured a tradition out of nothing · added 2026-10-31 (week of 2026-10-26, gap: no manufactured-tradition card yet)
 
 ### Behavioural psychology
 
@@ -33,6 +38,10 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] The key in the lost wallet · experiment · psychology · a key, worthless to the finder, raised returns on its own · added 2026-10-31 (from 2026-10-31-04-wallets-with-more-money)
 - [ ] Carl Sagan hearing his dead parents' voices · person · psychology · a sceptic's own account of hallucination in The Demon-Haunted World · added 2026-10-31 (from 2026-10-31-23-miners-waking-ghosts)
 - [ ] Ringelmann effect · experiment · psychology · each person pulls less hard on a rope as the team grows · added 2026-10-31 (rejected candidate)
+- [ ] Shigeo Shingo and poka-yoke · person · psychology · the Toyota engineer who formalised the mistake-proofing behind the ATM card-first order · added 2026-10-31 (from 2026-10-31-11-atm-card-before-cash)
+- [ ] Yee and Bailenson's later Proteus effect studies · experiment · psychology · what other avatar traits (attractiveness, a uniform, a scar) changed real behaviour after the tall-avatar negotiation result · added 2026-10-31 (from 2026-10-31-17-proteus-effect-tall-avatars)
+- [ ] The Behavioural Insights Team's other jobcentre text trials · experiment · psychology · what other one-line wording changes the "good luck" team tested on turnout · added 2026-10-31 (from 2026-10-31-14-good-luck-text-jobseekers)
+- [ ] Dan Ariely's "FREE!" pricing experiments · experiment · psychology · how a price of zero outperforms small discounts, beyond the chocolate-truffle version · added 2026-10-31 (week of 2026-10-26, gap: no zero-price card yet)
 
 ### Founders and company building
 

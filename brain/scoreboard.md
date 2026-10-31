@@ -42,3 +42,11 @@ featured picks that you later acted on. Silence is neutral.
 - Sources: ...
 - Featured hits and misses: hit = featured and used; miss = deepened but not featured
 -->
+
+### Week of 2026-10-26
+- Used rate: used 0 of 30 shown · deepened 0 · bridged 0 · searches 0. First week (launch day only, 2026-10-31); no issue has been replied to yet, so there's no used/deepened/bridged signal to judge by.
+- Strategies: all 20 (S01–S16, C01, C02, C07, C08) have only one day of data against the 28-day bar, so none is judged yet. Raw day-one counts: S16 widest (6 kept of 12 tried, 1 featured), S11 and S14 clean (3/3), S10 2/3, C02 the only 0-kept strategy (0/1). Too early to call any of this strong or weak.
+- Shapes: 2-shocking-number, 3-wrong-decision-worked, 4-tiny-change, 5-unknown-origin and 9-unfamiliar-concept each got 4 of 30; 8-unexpected-claim and unshaped got 1 each, the thinnest so far.
+- Pools: even split, marketing 10 · psychology 10 · founders 10.
+- Sources: web search did the heavy lifting (27 kept); The Diary of a CEO, Cautionary Tales and 99% Invisible each supplied 1. Perplexity and the Behavioural Insights Team PDF both failed to deliver on day one (logged above).
+- Featured hits and misses: none yet, nothing to score (hit = featured and used; miss = deepened but not featured). The 6 featured cards are #1 Japan's family firms adopt grown men, #2 The shopping cart needed fake shoppers, #3 Ferrari's pit crew redesigned child surgery, #4 Wallets with more cash come back more, #5 Thirsty people imagine thirstier hikers, #6 Half the world's CDs said AOL.
