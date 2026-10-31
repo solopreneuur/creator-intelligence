@@ -1,0 +1,148 @@
+name: Creator Intelligence Reply
+
+# Runs when the repo owner comments on a daily or weekly issue. Comments posted
+# by this workflow use the Actions token, which never triggers another run, and
+# are not from the owner anyway.
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: creator-intelligence
+  cancel-in-progress: false
+
+jobs:
+  reply:
+    if: >-
+      github.event.comment.user.login == github.repository_owner &&
+      github.event.comment.user.type != 'Bot' &&
+      !github.event.issue.pull_request &&
+      (contains(github.event.issue.labels.*.name, 'ci-daily') ||
+       contains(github.event.issue.labels.*.name, 'ci-weekly'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      TZ: America/New_York
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+      RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out second-brain
+        id: brain
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/second-brain
+          token: ${{ secrets.SECOND_BRAIN_TOKEN }}
+          path: second-brain
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        id: install
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          pip install markdown
+          claude --version
+
+      # The comment and the issue reach Claude through files. They are passed
+      # in as environment variables and never pasted into a shell line.
+      - name: Save the reply and the issue
+        id: save
+        env:
+          COMMENT_BODY: ${{ github.event.comment.body }}
+          COMMENT_ID: ${{ github.event.comment.id }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+          ISSUE_LABELS: ${{ join(github.event.issue.labels.*.name, ', ') }}
+        run: |
+          mkdir -p _run
+          printf '%s\n' "$COMMENT_BODY" > _run/reply.txt
+          {
+            printf '# %s\n\nURL: %s\nLabels: %s\n\n## Issue body\n\n%s\n\n## Earlier comments\n\n' \
+              "$ISSUE_TITLE" "$ISSUE_URL" "$ISSUE_LABELS" "$ISSUE_BODY"
+            gh api "repos/$GITHUB_REPOSITORY/issues/$ISSUE/comments" --paginate \
+              --jq ".[] | select(.id != $COMMENT_ID) | \"### \(.user.login) · \(.created_at)\n\n\(.body)\n\""
+          } > _run/issue-context.md
+
+      - name: Trust the workspace
+        id: trust
+        run: |
+          python3 - <<'EOF'
+          import json, os
+          from pathlib import Path
+          p = Path.home() / ".claude.json"
+          text = p.read_text() if p.exists() else ""
+          data = json.loads(text) if text.strip() else {}
+          data.setdefault("projects", {}).setdefault(os.getcwd(), {})["hasTrustDialogAccepted"] = True
+          p.write_text(json.dumps(data, indent=2))
+          EOF
+
+      - name: Handle the reply
+        id: run
+        run: |
+          set +e
+          claude -p "/ci-reply" \
+            --permission-mode acceptEdits \
+            --allowedTools "Read,Edit,Write,Glob,Grep,WebFetch,WebSearch,Bash(python3 .claude/scripts/feeds.py *),Bash(date *),mcp__perplexity" > _run/run.log 2>&1
+          echo "CLAUDE_EXIT=$?" >> "$GITHUB_ENV"
+          exit 0
+
+      - name: Commit and push both repos
+        id: commit
+        run: |
+          git config --global user.name "creator-intelligence-bot"
+          git config --global user.email "actions@users.noreply.github.com"
+          for repo in second-brain .; do
+            (
+              cd "$repo"
+              git add -A
+              git diff --cached --quiet || git commit -m "Creator Intelligence reply on #$ISSUE"
+              git pull --rebase
+              git push
+            )
+          done
+
+      - name: Post the result and email it
+        id: deliver
+        run: |
+          R=_run/reply-result.md
+          if [ ! -s "$R" ]; then
+            echo "Claude Code wrote no _run/reply-result.md"
+            exit 1
+          fi
+          gh issue comment "$ISSUE" --body-file "$R"
+          SUBJECT=$(head -n 1 _run/reply-subject.txt 2>/dev/null)
+          [ -n "$SUBJECT" ] || SUBJECT="Creator Intelligence · Reply"
+          python .claude/scripts/send_email.py "$SUBJECT" "$R"
+
+      - name: Fail the run if Claude Code failed
+        id: exitcheck
+        run: '[ "${CLAUDE_EXIT:-1}" = "0" ]'
+
+      - name: Failure email
+        if: failure()
+        env:
+          STEPS: ${{ toJSON(steps) }}
+        run: |
+          mkdir -p _run
+          pip install markdown >/dev/null 2>&1 || true
+          python3 .claude/scripts/failure_report.py "Reply run on issue #$ISSUE" > _run/failure.md
+          python3 .claude/scripts/send_email.py "Creator Intelligence FAILED · $(date +%F)" _run/failure.md

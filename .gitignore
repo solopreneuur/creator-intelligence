@@ -1,0 +1,5 @@
+_run/
+.env
+# second-brain is checked out here by the workflows (and symlinked locally); it is its own repo
+/second-brain
+.DS_Store

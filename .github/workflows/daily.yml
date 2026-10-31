@@ -1,0 +1,156 @@
+name: Creator Intelligence Daily
+
+# cron-job.org starts this through workflow_dispatch each morning.
+# The schedule below is a late backup; the already-done check makes a second
+# trigger exit in seconds.
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even if today's issue already exists"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "45 6 * * *"
+      timezone: "America/New_York"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: creator-intelligence
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    env:
+      TZ: America/New_York
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      GH_TOKEN: ${{ github.token }}
+      RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check whether today's issue already exists
+        id: check
+        env:
+          FORCE: ${{ inputs.force }}
+        run: |
+          TITLE="Creator Intelligence · $(date '+%a %b %-d')"
+          echo "title=$TITLE" >> "$GITHUB_OUTPUT"
+          FOUND=$(gh issue list --label ci-daily --state all --limit 10 --json title \
+            --jq "[.[] | select(.title == \"$TITLE\")] | length" 2>/dev/null || echo 0)
+          if [ "$FORCE" != "true" ] && [ "${FOUND:-0}" -gt 0 ]; then
+            echo "already_done=true" >> "$GITHUB_OUTPUT"
+            echo "An issue titled \"$TITLE\" already exists. Skipping the rest of this run."
+          else
+            echo "already_done=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check out second-brain
+        id: brain
+        if: steps.check.outputs.already_done != 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/second-brain
+          token: ${{ secrets.SECOND_BRAIN_TOKEN }}
+          path: second-brain
+
+      - uses: actions/setup-node@v4
+        if: steps.check.outputs.already_done != 'true'
+        with:
+          node-version: 20
+
+      - uses: actions/setup-python@v5
+        if: steps.check.outputs.already_done != 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        id: install
+        if: steps.check.outputs.already_done != 'true'
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          pip install markdown
+          claude --version
+
+      - name: Trust the workspace
+        id: trust
+        if: steps.check.outputs.already_done != 'true'
+        run: |
+          python3 - <<'EOF'
+          import json, os
+          from pathlib import Path
+          p = Path.home() / ".claude.json"
+          text = p.read_text() if p.exists() else ""
+          data = json.loads(text) if text.strip() else {}
+          data.setdefault("projects", {}).setdefault(os.getcwd(), {})["hasTrustDialogAccepted"] = True
+          p.write_text(json.dumps(data, indent=2))
+          EOF
+
+      - name: Run the daily dig
+        id: run
+        if: steps.check.outputs.already_done != 'true'
+        run: |
+          mkdir -p _run
+          set +e
+          claude -p "/ci-daily" \
+            --permission-mode acceptEdits \
+            --allowedTools "Read,Edit,Write,Glob,Grep,WebFetch,WebSearch,Bash(python3 .claude/scripts/feeds.py *),Bash(date *),mcp__perplexity" > _run/run.log 2>&1
+          echo "CLAUDE_EXIT=$?" >> "$GITHUB_ENV"
+          exit 0
+
+      - name: Commit and push both repos
+        id: commit
+        if: steps.check.outputs.already_done != 'true'
+        run: |
+          git config --global user.name "creator-intelligence-bot"
+          git config --global user.email "actions@users.noreply.github.com"
+          for repo in second-brain .; do
+            (
+              cd "$repo"
+              git add -A
+              git diff --cached --quiet || git commit -m "Creator Intelligence daily $(date +%F)"
+              git pull --rebase
+              git push
+            )
+          done
+
+      - name: Open the issue and send the email
+        id: deliver
+        if: steps.check.outputs.already_done != 'true'
+        env:
+          TITLE: ${{ steps.check.outputs.title }}
+        run: |
+          if [ ! -s _run/issue.md ]; then
+            echo "Claude Code wrote no _run/issue.md"
+            exit 1
+          fi
+          gh label create ci-daily --color 1f6feb --description "Creator Intelligence daily issue" 2>/dev/null || true
+          sed 's|{{ISSUE_URL}}|this issue|g' _run/issue.md > _run/issue-draft.md
+          URL=$(gh issue create --title "$TITLE" --label ci-daily --body-file _run/issue-draft.md)
+          sed "s|{{ISSUE_URL}}|$URL|g" _run/issue.md > _run/issue-final.md
+          gh issue edit "$URL" --body-file _run/issue-final.md
+          python .claude/scripts/send_email.py "$TITLE" _run/issue-final.md
+
+      - name: Fail the run if Claude Code failed
+        id: exitcheck
+        if: steps.check.outputs.already_done != 'true'
+        run: '[ "${CLAUDE_EXIT:-1}" = "0" ]'
+
+      - name: Failure email
+        if: failure() && steps.check.outputs.already_done != 'true'
+        env:
+          STEPS: ${{ toJSON(steps) }}
+        run: |
+          mkdir -p _run
+          pip install markdown >/dev/null 2>&1 || true
+          python3 .claude/scripts/failure_report.py "Daily run" > _run/failure.md
+          python3 .claude/scripts/send_email.py "Creator Intelligence FAILED · $(date +%F)" _run/failure.md

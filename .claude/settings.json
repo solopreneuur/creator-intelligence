@@ -1,0 +1,17 @@
+{
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": [
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "WebFetch",
+      "WebSearch",
+      "Bash(python3 .claude/scripts/feeds.py *)",
+      "Bash(date *)",
+      "mcp__perplexity"
+    ]
+  }
+}
