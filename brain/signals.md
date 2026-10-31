@@ -20,3 +20,5 @@ Types:
 
 ## Log
 
+- 2026-10-31 · deepen · 2026-10-31-25-costco-markup-cap · shape 3-wrong-decision-worked · pool founders · concept self-imposed-constraint · strategy S05 · featured no · wildcard no · featured miss
+
