@@ -1,0 +1,4 @@
+# Append-only logs: when two runs both add lines, keep both instead of conflicting
+brain/signals.md merge=union
+brain/seen.md merge=union
+brain/scoreboard.md merge=union

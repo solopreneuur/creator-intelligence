@@ -124,7 +124,7 @@ Answer in plain words ("the Haier one, the lace-making one"). Skipping it is fin
 
 ---
 
-To reply, comment on this week's issue: {{ISSUE_URL}}
+To reply, answer this email or comment on this week's issue: {{ISSUE_URL}}
 Say what you used or liked this week, in your own words.
 ```
 

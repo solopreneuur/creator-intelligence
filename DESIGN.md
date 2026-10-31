@@ -135,7 +135,7 @@ About 30 finds a day, balanced across shapes and pools, with roughly a quarter a
 **Every email ends with a short reminder** of how to reply. Replies are comments on that day's GitHub issue, so the footer links to it. The daily footer:
 
 ```text
-To reply, comment on today's issue: <issue link>
+To reply, answer this email or comment on today's issue: <issue link>
 "deeper 14" researches card 14 in depth.
 "bridge 14" shows ways to connect card 14 to your audience.
 ```
@@ -143,7 +143,7 @@ To reply, comment on today's issue: <issue link>
 The Sunday footer links to that week's issue the same way:
 
 ```text
-To reply, comment on this week's issue: <issue link>
+To reply, answer this email or comment on this week's issue: <issue link>
 Say what you used or liked this week, in your own words.
 ```
 
@@ -302,6 +302,7 @@ Delivery matches World Intelligence: the email is sent by the workflow, not by G
 
 - **The issue.** Each morning's cards are posted as a GitHub issue in `creator-intelligence` with the label `ci-daily` (labeled, not assigned). The Sunday question is posted the same way with the label `ci-weekly`. The issue is where replies go: commenting on it triggers the reply workflow.
 - **The email.** Right after the issue is created, the workflow sends the same content as a styled email through Gmail with `.claude/scripts/send_email.py`. It reads `GMAIL_USER`, `GMAIL_APP_PASSWORD` and `EMAIL_TO` from the environment, turns the markdown into HTML with inline CSS so it reads cleanly on a phone, and adds the hidden preheader. The footer links to the issue.
+- **Replying by email.** Answering any Creator Intelligence email works too. Each email's Message-ID carries its issue number. A Google Apps Script in the receiving Gmail account (`email-bridge/`) checks every 5 minutes for your replies and posts each one, as you, as a comment on the matching issue, which starts the reply workflow. It accepts only replies from your own address that answer a Creator Intelligence email, and it strips the quoted text first.
 - **Reply results.** The reply run posts its result as a comment on the issue and emails the same result with the matching subject.
 - **Failures** send a failure email, not an issue.
 

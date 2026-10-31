@@ -289,7 +289,7 @@ The researched section, then a line of further links.
 
 ---
 
-To reply, comment on today's issue: {{ISSUE_URL}}
+To reply, answer this email or comment on today's issue: {{ISSUE_URL}}
 "deeper 14" researches card 14 in depth.
 "bridge 14" shows ways to connect card 14 to your audience.
 ```

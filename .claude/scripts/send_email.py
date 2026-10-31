@@ -2,6 +2,9 @@
 """Send a markdown file as a styled HTML email via Gmail.
 Usage: python3 send_email.py "Subject line" path/to/file.md
        python3 send_email.py "Subject line" path/to/file.md --preview out.html
+       python3 send_email.py "Subject line" path/to/file.md --issue 12
+--issue puts the issue number in the Message-ID, so the email bridge
+(email-bridge/) can post a reply to this email on the right issue.
 If the file has a "Featured today" blockquote (the daily issue), the subject
 becomes "Creator Intelligence · <Day Mon D> · <first label>" and the featured
 labels, joined by " · ", become the hidden preheader. Otherwise the subject
@@ -12,6 +15,7 @@ import os, re, smtplib, sys
 from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from email.utils import make_msgid
 from html import escape
 from pathlib import Path
 
@@ -84,8 +88,20 @@ for line in (env_file.read_text().splitlines() if env_file.exists() else []):
         key, value = line.split("=", 1)
         env[key.strip()] = value.strip()
 
-subject, path = sys.argv[1], Path(sys.argv[2])
-preview = sys.argv[4] if len(sys.argv) > 4 and sys.argv[3] == "--preview" else None
+args = sys.argv[1:]
+
+
+def option(name):
+    if name in args:
+        i = args.index(name)
+        value = args[i + 1]
+        del args[i:i + 2]
+        return value
+
+
+preview = option("--preview")
+issue = option("--issue")
+subject, path = args[0], Path(args[1])
 body = path.read_text(errors="replace")[-200000:]
 
 labels = featured_labels(body)
@@ -109,6 +125,8 @@ msg = MIMEMultipart("alternative")
 msg["Subject"] = subject
 msg["From"] = env["GMAIL_USER"]
 msg["To"] = env["EMAIL_TO"]
+if issue and issue.isdigit():
+    msg["Message-ID"] = make_msgid(idstring=f"ci-issue-{issue}", domain="creator-intelligence")
 msg.attach(MIMEText(body, "plain"))
 msg.attach(MIMEText(html, "html"))
 

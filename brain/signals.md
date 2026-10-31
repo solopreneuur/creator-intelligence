@@ -22,4 +22,4 @@ Types:
 
 - 2026-10-31 · deepen · 2026-10-31-25-costco-markup-cap · shape 3-wrong-decision-worked · pool founders · concept self-imposed-constraint · strategy S05 · featured no · wildcard no · featured miss
 - 2026-10-31 · deepen · 2026-10-31-15-tinbergen-giant-eggs · shape 7-far-field · pool marketing · concept supernormal-stimulus · strategy S11 · featured no · wildcard yes · featured miss
-
+- 2026-10-31 · deepen · 2026-10-31-10-toyoda-loom-patent-sale · shape 5-unknown-origin · pool founders · concept jidoka · strategy S16 · featured no · wildcard no · featured miss (restored by hand: the reply run failed at push)

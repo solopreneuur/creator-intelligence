@@ -148,7 +148,7 @@ Sources: [a](...) · [b](...)
 
 ---
 
-To reply, comment on today's issue: <issue URL from issue-context>
+To reply, answer this email or comment on today's issue: <issue URL from issue-context>
 "deeper 14" researches card 14 in depth.
 "bridge 14" shows ways to connect card 14 to your audience.
 ```
@@ -159,7 +159,7 @@ To reply, comment on today's issue: <issue URL from issue-context>
   use:
 
 ```text
-To reply, comment on this week's issue: <issue URL>
+To reply, answer this email or comment on this week's issue: <issue URL>
 Say what you used or liked this week, in your own words.
 ```
 

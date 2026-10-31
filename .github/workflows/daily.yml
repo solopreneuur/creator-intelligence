@@ -36,7 +36,11 @@ jobs:
       GH_TOKEN: ${{ github.token }}
       RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
     steps:
+      # The latest main when the job starts, not the commit that triggered it:
+      # a run queued behind another must see what that run pushed.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
 
       - name: Check whether today's issue already exists
         id: check
@@ -138,7 +142,7 @@ jobs:
           URL=$(gh issue create --title "$TITLE" --label ci-daily --body-file _run/issue-draft.md)
           sed "s|{{ISSUE_URL}}|$URL|g" _run/issue.md > _run/issue-final.md
           gh issue edit "$URL" --body-file _run/issue-final.md
-          python .claude/scripts/send_email.py "$TITLE" _run/issue-final.md
+          python .claude/scripts/send_email.py "$TITLE" _run/issue-final.md --issue "${URL##*/}"
 
       - name: Fail the run if Claude Code failed
         id: exitcheck
