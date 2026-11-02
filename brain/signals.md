@@ -23,3 +23,7 @@ Types:
 - 2026-10-31 · deepen · 2026-10-31-25-costco-markup-cap · shape 3-wrong-decision-worked · pool founders · concept self-imposed-constraint · strategy S05 · featured no · wildcard no · featured miss
 - 2026-10-31 · deepen · 2026-10-31-15-tinbergen-giant-eggs · shape 7-far-field · pool marketing · concept supernormal-stimulus · strategy S11 · featured no · wildcard yes · featured miss
 - 2026-10-31 · deepen · 2026-10-31-10-toyoda-loom-patent-sale · shape 5-unknown-origin · pool founders · concept jidoka · strategy S16 · featured no · wildcard no · featured miss (restored by hand: the reply run failed at push)
+- 2026-11-02 · deepen · 2026-11-02-02-divorce-lawyer-prenup-romantic · shape 8-unexpected-claim · pool psychology · concept radical-honesty · strategy S12 · featured yes · wildcard no · -
+- 2026-11-02 · deepen · 2026-11-02-05-zipper-explanatory-depth · shape 9-unfamiliar-concept · pool psychology · concept illusion-of-explanatory-depth · strategy S13 · featured yes · wildcard no · -
+- 2026-11-02 · deepen · 2026-11-02-20-nintendo-taxi-love-hotels · shape 5-unknown-origin · pool founders · concept narrative-fallacy · strategy S09 · featured no · wildcard yes · featured miss
+- 2026-11-02 · deepen · 2026-11-02-24-pronounceable-tickers · shape 9-unfamiliar-concept · pool psychology · concept cognitive-fluency · strategy S14 · featured no · wildcard no · featured miss
