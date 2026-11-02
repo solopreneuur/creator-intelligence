@@ -30,6 +30,15 @@ featured picks that you later acted on. Silence is neutral.
 - Source failures: Perplexity (API key rejected, 401) · Behavioural Insights Team paper PDF unreadable (card 14 figures unchecked)
 - Candidate discovered sources: knowledge.wharton.upenn.edu (2 kept cards: 08, 13) · freakonomics.com (behind 01 and 27) · atlasobscura.com (24, origin stories)
 
+### 2026-11-02
+- Cards: 30 · featured 6 · wildcards 8 · candidates reviewed 68 · rejected at self-review 38
+- Pools: marketing 10 · psychology 10 · founders 10
+- Shapes: 1-hidden-reason 6 · 2-shocking-number 3 · 3-wrong-decision-worked 5 · 4-tiny-change 2 · 5-unknown-origin 7 · 6-day-walk 1 · 7-far-field 2 · 8-unexpected-claim 1 · 9-unfamiliar-concept 2 · unshaped 1
+- Strategies (kept/tried · featured): S01 2/2 · S02 1/1 · S03 2/5 · S04 1/1 · S05 2/2 f1 · S06 1/1 · S07 1/1 · S08 1/1 · S09 4/7 f1 · S10 1/5 · S11 1/4 · S12 1/7 f1 · S13 1/4 f1 · S14 2/7 · S15 3/6 f1 · S16 2/20 f1 · C03 1/2 · C04 1/3 · C05 1/2 · C06 1/2
+- Sources (kept): 99% Invisible 3 · web search / primary sources (company archives, academic papers, trade press) 27
+- Source failures: all six Substack contestant/discovered feeds (Erik Torenberg, Gary Marcus, Dostoevsky's Blog, exponent, The Substack Post, Propel Earth) 403 from the runner · Huberman Lab transcript gated behind Premium · Modern Wisdom's episode-page URLs dead (site redirects) · The Knowledge Project's latest transcript not yet published · web.archive.org blocked at the tool level this run (C06 fell back to company press releases) · YouTube transcript fetches blocked, as expected
+- Candidate discovered sources: packagingstrategies.com (trade press, kept card 30) · thefashionlaw.com (fashion trade press, kept card 25) · pod.wave.co/Hyperfixed (kept card 18) · anthropic.com/research (kept card 06)
+
 ## Weekly summaries
 
 <!-- One block per Sunday:

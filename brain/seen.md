@@ -39,4 +39,34 @@ Format: `- YYYY-MM-DD · <card id> · <the find in a few words> · <source link>
 - 2026-10-31 · 2026-10-31-28-kozmo-one-hour-delivery · Kozmo.com free one-hour delivery, $280M raised, shut 2001 · https://money.cnn.com/2001/04/12/technology/kozmo/index.htm
 - 2026-10-31 · 2026-10-31-29-cafeteria-see-the-cooks · Cafeteria where diners and cooks could see each other: quality +22%, faster service · https://mgmt.ucl.ac.uk/news/power-transparency-dining-experiences
 - 2026-10-31 · 2026-10-31-30-pull-to-refresh-regret · Loren Brichter invented pull-to-refresh and regrets its addictive downsides · https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
+- 2026-11-02 · 2026-11-02-01-de-beers-diamond-forever · Frances Gerety wrote "A Diamond Is Forever" for De Beers in 1947 · https://www.npr.org/transcripts/205839105
+- 2026-11-02 · 2026-11-02-02-divorce-lawyer-prenup-romantic · James Sexton on DOAC: prenup talk is "quite romantic" · https://rss.flightcast.com/transcripts/01M4BFEBPEK1CKAKZ2BYPSHPK1.vtt
+- 2026-11-02 · 2026-11-02-03-corning-shelved-gorilla-glass · Corning's Chemcor glass shelved 36 years, became Gorilla Glass · https://en.wikipedia.org/wiki/Gorilla_Glass
+- 2026-11-02 · 2026-11-02-04-nucor-no-layoffs-2009 · Nucor's 2009 $293.6M loss, no layoffs, bonuses cut instead · https://www.bloomberg.com/news/articles/2009-03-25/pain-but-no-layoffs-at-nucor
+- 2026-11-02 · 2026-11-02-05-zipper-explanatory-depth · Rozenblit & Keil: people can't explain a zipper or toilet · https://cogdevlab.yale.edu/sites/default/files/files/rozenblit%20&%20keil%20%202002.pdf
+- 2026-11-02 · 2026-11-02-06-ai-agents-bias-analysts · Anthropic: analysts matched AI agent's coin-flipped lean 86% of the time · https://www.anthropic.com/research/agents-judgment-calls
+- 2026-11-02 · 2026-11-02-07-marlboro-gender-flip · Marlboro launched in 1924 as a women's cigarette · https://en.wikipedia.org/wiki/Marlboro_Man
+- 2026-11-02 · 2026-11-02-08-supermarket-shelf-category-captain · Supermarket planograms built by the category's biggest supplier · https://99percentinvisible.org/episode/488-its-a-small-aisle-after-all/transcript/
+- 2026-11-02 · 2026-11-02-09-paypal-beaming-money · PayPal (Confinity) originally pitched beaming money via infrared · https://www.paypalobjects.com/html/pr-111699.html
+- 2026-11-02 · 2026-11-02-10-effort-heuristic-poem · Kruger et al.: same poem rated better when told it took 18 hours · https://en.wikipedia.org/wiki/Effort_heuristic
+- 2026-11-02 · 2026-11-02-11-panasonic-250-year-plan · Matsushita's 1932 mission set in 250-year, ten-phase plan · https://news.panasonic.com/global/es/stories/17953
+- 2026-11-02 · 2026-11-02-12-oatly-prints-lawsuit · Oatly printed its lost lawsuit against Swedish dairy lobby on cartons · https://setterwalls.se/en/article/swedish-dairy-vs-oatly-who-is-crying-over-spilled-milk/
+- 2026-11-02 · 2026-11-02-13-aircraft-carrier-collective-mind · Weick & Roberts: aircraft carrier flight deck "collective mind" safety · https://en.wikipedia.org/wiki/High_reliability_organization
+- 2026-11-02 · 2026-11-02-14-wrigley-gum-was-the-freebie · Wrigley's gum started as a free bonus with baking powder · https://www.todayifoundout.com/index.php/2015/10/scouring-soap-chewing-gum-william-wrigley-jr-freebies/
+- 2026-11-02 · 2026-11-02-15-dominos-paving-for-pizza · Domino's "Paving for Pizza" pothole grants, 137,000 nominations · https://ir.dominos.com/news-releases/news-release-details/huge-response-leads-dominosr-extend-paving-grants-all-50-states
+- 2026-11-02 · 2026-11-02-16-buried-bodies-case · 1973 "Buried Bodies Case": lawyers kept client's secret under privilege · https://www.radiolab.org/podcast/the_buried_bodies_case/transcript
+- 2026-11-02 · 2026-11-02-17-rakuten-englishnization · Rakuten's 2010 two-year English-only ultimatum · https://www.strategy-business.com/article/When-a-Japanese-Company-Adopted-English-as-a-First-Language
+- 2026-11-02 · 2026-11-02-18-doorless-dairy-case · Supermarket dairy cases have no doors despite energy cost · https://pod.wave.co/podcast/99-invisible/hyperfixed-dylans-supermarket-cold-case-ada97713
+- 2026-11-02 · 2026-11-02-19-obama-learn-more-button · Obama campaign: "Learn More" button beat "Sign Up" by 40.6% · https://www.optimizely.com/field-notes/articles/how-obama-raised-60-million-by-running-a-simple-experiment
+- 2026-11-02 · 2026-11-02-20-nintendo-taxi-love-hotels · Nintendo ran a taxi firm, instant rice and love hotels before games · https://www.nintendolife.com/news/2022/03/random-70s-photo-reminds-us-that-once-upon-a-time-nintendo-ran-a-taxi-firm
+- 2026-11-02 · 2026-11-02-21-nudges-shrink-at-scale · DellaVigna & Linos: government nudges 84% smaller than academic papers · https://www.nber.org/papers/w27594
+- 2026-11-02 · 2026-11-02-22-got-milk-deprivation · "Got Milk?" born from a week-long milk-deprivation focus group · https://www.fastcompany.com/40556502/got-milk-how-the-iconic-campaign-came-to-be-25-years-ago
+- 2026-11-02 · 2026-11-02-23-loom-taught-toyota-to-stop · Toyoda's automatic loom is the origin of Toyota's andon cord · https://pressroom.toyota.com/beyond-the-line-how-toyotas-culture-shapes-everyday-life/
+- 2026-11-02 · 2026-11-02-24-pronounceable-tickers · Alter & Oppenheimer: pronounceable stock tickers beat the market by day one · https://pmc.ncbi.nlm.nih.gov/articles/PMC1482615/
+- 2026-11-02 · 2026-11-02-25-hermes-caps-production · Hermès caps Birkin production growth at 6-7% a year · https://www.thefashionlaw.com/reporting-2021-revenues-hermes-chief-says-group-wont-boost-bag-volumes/
+- 2026-11-02 · 2026-11-02-26-buffett-sunk-cost-letters · Buffett's 1979-80 letters admit a repeated textile-mill mistake · https://www.berkshirehathaway.com/letters/1979.html
+- 2026-11-02 · 2026-11-02-27-china-wallets-wechat-fix · China wallet-return rate jumped from under 10% to 59.3% with a WeChat QR code · https://www.nature.com/articles/s41598-025-87804-z
+- 2026-11-02 · 2026-11-02-28-doktoro-esperanto · Zamenhof published Esperanto in 1887 under the pen name "Doktoro Esperanto" · https://99percentinvisible.org/episode/689-doktoro-esperanto/transcript/
+- 2026-11-02 · 2026-11-02-29-telltale-formula-lock-in · Ex-Telltale designer: a rigid creative formula masked a years-long decline · https://www.reddit.com/r/telltale/comments/c0f1b4/what_went_wrong/
+- 2026-11-02 · 2026-11-02-30-square-milk-jugs · 2008 square milk jugs: 9% more milk per truckload, shoppers hated it · https://www.packagingstrategies.com/articles/83903-dairy-segment-emerges-from-predictability
 
