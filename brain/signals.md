@@ -32,3 +32,4 @@ Types:
 - 2026-11-03 · bridge · 2026-11-02-05-zipper-explanatory-depth · shape 9-unfamiliar-concept · pool psychology · concept illusion-of-explanatory-depth · strategy S13 · featured yes · wildcard no · -
 - 2026-11-03 · deepen · 2026-11-03-27-b17-crash-built-checklists · shape 7-far-field · pool psychology · concept cross-domain-transfer · strategy S11 · featured no · wildcard yes · featured miss
 - 2026-11-03 · bridge · 2026-11-03-05-shocked-rather-than-think · shape 2-shocking-number · pool psychology · concept boredom-aversion · strategy S03 · featured yes · wildcard no · -
+- 2026-11-03 · bridge · 2026-11-02-24-pronounceable-tickers · shape 9-unfamiliar-concept · pool psychology · concept cognitive-fluency · strategy S14 · featured no · wildcard no · -
