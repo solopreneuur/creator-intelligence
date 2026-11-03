@@ -30,3 +30,5 @@ Types:
 - 2026-11-03 · bridge · 2026-11-02-02-divorce-lawyer-prenup-romantic · shape 8-unexpected-claim · pool psychology · concept radical-honesty · strategy S12 · featured yes · wildcard no · -
 - 2026-11-03 · bridge · 2026-11-02-20-nintendo-taxi-love-hotels · shape 5-unknown-origin · pool founders · concept narrative-fallacy · strategy S09 · featured no · wildcard yes · -
 - 2026-11-03 · bridge · 2026-11-02-05-zipper-explanatory-depth · shape 9-unfamiliar-concept · pool psychology · concept illusion-of-explanatory-depth · strategy S13 · featured yes · wildcard no · -
+- 2026-11-03 · deepen · 2026-11-03-27-b17-crash-built-checklists · shape 7-far-field · pool psychology · concept cross-domain-transfer · strategy S11 · featured no · wildcard yes · featured miss
+- 2026-11-03 · bridge · 2026-11-03-05-shocked-rather-than-think · shape 2-shocking-number · pool psychology · concept boredom-aversion · strategy S03 · featured yes · wildcard no · -
