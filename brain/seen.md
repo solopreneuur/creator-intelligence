@@ -69,4 +69,34 @@ Format: `- YYYY-MM-DD · <card id> · <the find in a few words> · <source link>
 - 2026-11-02 · 2026-11-02-28-doktoro-esperanto · Zamenhof published Esperanto in 1887 under the pen name "Doktoro Esperanto" · https://99percentinvisible.org/episode/689-doktoro-esperanto/transcript/
 - 2026-11-02 · 2026-11-02-29-telltale-formula-lock-in · Ex-Telltale designer: a rigid creative formula masked a years-long decline · https://www.reddit.com/r/telltale/comments/c0f1b4/what_went_wrong/
 - 2026-11-02 · 2026-11-02-30-square-milk-jugs · 2008 square milk jugs: 9% more milk per truckload, shoppers hated it · https://www.packagingstrategies.com/articles/83903-dairy-segment-emerges-from-predictability
+- 2026-11-03 · 2026-11-03-01-costco-hot-dog-kill-you · Sinegal told Jelinek "I will kill you" rather than raise the $1.50 hot dog · https://www.425business.com/news/costco-ceo-craig-jelinek-on-shareholders-costco-com-and-hot-dogs/article_5ff4b632-1f75-5e98-b9ff-6e02d676668b.html
+- 2026-11-03 · 2026-11-03-02-radiologists-missed-gorilla · 83% of radiologists missed a gorilla pasted into a lung CT scan · https://pmc.ncbi.nlm.nih.gov/articles/PMC3964612/
+- 2026-11-03 · 2026-11-03-03-carlsberg-probably-not · Carlsberg's "Probably Not" campaign used customers' worst tweets as ads · https://www.marketingweek.com/carlsberg-overhauls-brand-and-beer/
+- 2026-11-03 · 2026-11-03-04-general-magic-smartphone-1994 · General Magic shipped a working smartphone in 1994, folded by 2002 · https://en.wikipedia.org/wiki/General_Magic
+- 2026-11-03 · 2026-11-03-05-shocked-rather-than-think · 67% of men, 25% of women shocked themselves rather than sit and think · https://www.science.org/doi/10.1126/science.1250830
+- 2026-11-03 · 2026-11-03-06-coke-bottle-recognizable-dark · 1915 Coca-Cola bottle brief: recognizable in the dark or broken · https://www.coca-colacompany.com/about-us/history/the-history-of-the-coca-cola-contour-bottle
+- 2026-11-03 · 2026-11-03-07-nvidia-cuda-bet · Nvidia's 2006 CUDA bet tanked the stock 85% before the AI boom · https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering-the-a.i.-revolution
+- 2026-11-03 · 2026-11-03-08-cheerleader-effect · Cheerleader effect: faces rated more attractive in a group photo · https://doi.org/10.1177/0956797613497969
+- 2026-11-03 · 2026-11-03-09-monzo-unfinished-coral-card · Monzo's "placeholder" coral card became its permanent brand colour · https://www.wired.com/story/monzo-card-design/
+- 2026-11-03 · 2026-11-03-10-resentment-self-abandonment · Joe Hudson on Modern Wisdom: resentment means you abandoned yourself · https://podscripts.co/podcasts/modern-wisdom/how-to-make-better-decisions-with-way-less-uncertainty-joe-hudson-1171
+- 2026-11-03 · 2026-11-03-11-carrefour-no-frills-ugly · Carrefour/Loblaws engineered "ugly" generic branding to signal cheap · https://99percentinvisible.org/episode/no-frills/
+- 2026-11-03 · 2026-11-03-12-duolingo-streak-freeze-ceiling · Duolingo found 2 streak freezes work, a 3rd adds nothing · https://www.lennysnewsletter.com/p/behind-the-product-duolingo-streaks
+- 2026-11-03 · 2026-11-03-13-reactive-devaluation · Same arms proposal: 90% favorable as Reagan's, 44% as Gorbachev's · https://www.jstor.org/stable/3886949
+- 2026-11-03 · 2026-11-03-14-wine-list-backwards-pricing · Wine List listed its highest price first, lifted conversion 23% · https://marketingexamples.com/landing-page/wine-list
+- 2026-11-03 · 2026-11-03-15-apple-7030-memo · 2011 Schiller email: App Store's 70/30 cut "will not last forever" · https://daringfireball.net/2021/06/app_store_the_schiller_cut
+- 2026-11-03 · 2026-11-03-16-court-texts-with-your-name · UK court-fine texts: name alone beat amount-owed text (33% vs 29%) · https://thedecisionlab.com/intervention/how-personalized-text-messages-increased-fine-repayments-by-30
+- 2026-11-03 · 2026-11-03-17-cereal-mascots-look-down · Kids' cereal mascots drawn gazing down -9.67° to meet a child's eyes · https://news.cornell.edu/stories/2014/04/food-psychologists-eyeball-cereal-characters
+- 2026-11-03 · 2026-11-03-18-starbucks-japan-against-advice · Consultant said Japan would never buy coffee on the street; Schultz opened anyway · https://www.subeasy.ai/podcast/acquired/starbucks-with-howard-schultz
+- 2026-11-03 · 2026-11-03-19-mob-justice-benefits-you · Rob Kurzban on Modern Wisdom: joining moral mobs paid off evolutionarily · https://podscripts.co/podcasts/modern-wisdom/35-emotions-explained-by-evolutionary-psychology-rob-kurzban-1169
+- 2026-11-03 · 2026-11-03-20-field-grown-beats-meat-free · Renaming "Meat-free" to "Field-Grown" lifted sales 18% · https://www.wri.org/research/language-sustainable-diets-field-study-exploring-impact-renaming-vegetarian-dishes-uk-cafe
+- 2026-11-03 · 2026-11-03-21-libor-200-trillion-exit-tax · LIBOR's $200-trillion lock-in took years to unwind even after confirmed fraud · https://legalclarity.org/path-dependence-how-past-decisions-create-lock-in/
+- 2026-11-03 · 2026-11-03-22-choice-blindness-religious-belief · Covertly swapped religious-belief ratings, people defended the swap · https://www.tandfonline.com/doi/full/10.1080/2153599X.2025.2557482
+- 2026-11-03 · 2026-11-03-23-costco-maze-no-signs · Price Club co-founder calls his own no-signage layout "manipulative" · https://www.npr.org/transcripts/443519599
+- 2026-11-03 · 2026-11-03-24-ceo-hides-bad-news-location · CEOs move shareholder meetings far from HQ to hide bad news · https://www.nber.org/digest/jul14/evasive-shareholder-meetings
+- 2026-11-03 · 2026-11-03-25-compliments-beat-tips · Compliments outperformed tips on repeat visits in a field study · https://www.cambridge.org/core/journals/experimental-economics/article/immaterial-and-monetary-gifts-in-economic-transactions-evidence-from-the-field/A49035DDE1EE55F49C2EB9BAC6E52CE2
+- 2026-11-03 · 2026-11-03-26-denmark-tax-reminder-loss-frame · Denmark's loss-framed tax reminder raised on-time filing 65%→74% · https://inudgeyou.com/en/we-nudged-danish-companies-to-report-their-tax-returns-on-time-in-2016/
+- 2026-11-03 · 2026-11-03-27-b17-crash-built-checklists · 1935 B-17 crash checklist became the model for the WHO surgical checklist · https://en.wikipedia.org/wiki/WHO_Surgical_Safety_Checklist
+- 2026-11-03 · 2026-11-03-28-shopping-cart-wheel-lock-patent · Real 1968 cart wheel-lock patent was anti-theft, not anti-shopper · https://hackaday.com/2025/02/28/tech-in-plain-sight-shopping-cart-locks/
+- 2026-11-03 · 2026-11-03-29-chipotle-aerospace-tortilla-press · Chipotle hired an aerospace-equipment firm to engineer its tortilla warmer · https://www.cbsnews.com/news/chipotle-grills-secret-ingredient-obsession/
+- 2026-11-03 · 2026-11-03-30-mountain-dew-bourbon-mixer · Mountain Dew began as an unlabeled 1940s bourbon mixer · https://www.mentalfloss.com/food/beverages/11-energizing-facts-about-mountain-dew
 

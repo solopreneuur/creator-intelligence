@@ -39,6 +39,15 @@ featured picks that you later acted on. Silence is neutral.
 - Source failures: all six Substack contestant/discovered feeds (Erik Torenberg, Gary Marcus, Dostoevsky's Blog, exponent, The Substack Post, Propel Earth) 403 from the runner · Huberman Lab transcript gated behind Premium · Modern Wisdom's episode-page URLs dead (site redirects) · The Knowledge Project's latest transcript not yet published · web.archive.org blocked at the tool level this run (C06 fell back to company press releases) · YouTube transcript fetches blocked, as expected
 - Candidate discovered sources: packagingstrategies.com (trade press, kept card 30) · thefashionlaw.com (fashion trade press, kept card 25) · pod.wave.co/Hyperfixed (kept card 18) · anthropic.com/research (kept card 06)
 
+### 2026-11-03
+- Cards: 30 · featured 6 · wildcards 8 · candidates reviewed 58 · rejected at self-review 28
+- Pools: marketing 10 · psychology 10 · founders 10
+- Shapes: 1-hidden-reason 6 · 2-shocking-number 4 · 3-wrong-decision-worked 4 · 4-tiny-change 3 · 5-unknown-origin 5 · 6-day-walk 1 · 7-far-field 1 · 8-unexpected-claim 2 · 9-unfamiliar-concept 4
+- Strategies (kept/tried · featured): S01 3/4 · S02 1/2 · S03 2/3 f2 · S04 1/2 · S05 2/3 · S06 1/3 f1 · S07 2/4 · S08 1/3 · S09 2/3 · S10 1/3 · S11 1/3 · S12 2/3 · S13 2/3 · S14 3/4 · S15 1/4 · S16 2/4 f2 · C01 1/2 · C02 1/2 · C07 1/2 f1 · C08 0/1
+- Sources (kept): Modern Wisdom 2 · 99% Invisible 1 · Acquired 1 · web search / primary sources (academic papers, patents, trade press, company archives, podcast transcripts) 26
+- Source failures: Perplexity's research/ask/reason tools returned 403 "requires paid credits" for part of the run, only perplexity_search worked (one digging agent fell back to WebSearch/WebFetch) · schwab.com (Choiceology) bot-blocked on repeated fetch, used secondary coverage instead · Huberman Lab's latest transcript still gated "under human review" · Marketing Against the Grain's latest episode had no usable show notes or transcript · Diary of a CEO's Talarico episode was partisan political commentary, not usable · The Knowledge Project's latest transcript not yet published
+- Candidate discovered sources: lennysnewsletter.com (product-management interviews, kept card 12) · hackaday.com (patent/tech teardowns, kept card 28) · daringfireball.net (court-exhibit analysis, kept card 15) · inudgeyou.com (Danish nudge-unit case studies, kept card 26) · legalclarity.org (kept card 21) · podscripts.co (transcript mirror used for the two Modern Wisdom cards, 10 and 19)
+
 ## Weekly summaries
 
 <!-- One block per Sunday:

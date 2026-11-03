@@ -11,7 +11,6 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 
 ### Marketing
 
-- [ ] Coca-Cola contour bottle brief (1915) · patent · marketing · a bottle recognisable in the dark or broken on the ground · added 2026-10-31 (rejected candidate, C02)
 - [ ] Guinness "Surfer" ad (1999) · campaign · marketing · how the "wait" idea was dramatised, and the fast-pour tap test that followed · added 2026-10-31 (from 2026-10-31-09-guinness-slow-pour-reframe)
 - [ ] Loren Brichter's Tweetie · person · marketing · what else the one-man app he sold to Twitter shipped before pull-to-refresh · added 2026-10-31 (from 2026-10-31-30-pull-to-refresh-regret)
 - [ ] Repricing algorithms named in other antitrust suits · concept · marketing · whether rivals of Amazon have had their own "Project Nessie" exposed in litigation · added 2026-10-31 (from 2026-10-31-19-amazon-project-nessie)
@@ -19,28 +18,35 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] Leo Burnett's rejected Marlboro mascots (sea captains, weightlifters) · campaign · marketing · why the cowboy beat the other options tested · added 2026-11-02 (from 2026-11-02-07-marlboro-gender-flip)
 - [ ] Dan Phillips, retail designer · person · marketing · other "frozen assumption" retail design choices he's documented · added 2026-11-02 (from 2026-11-02-18-doorless-dairy-case)
 - [ ] Frances Gerety's 25 years of later De Beers ads · person · marketing · how the "two months' salary" rule was actually introduced in the 1980s · added 2026-11-02 (from 2026-11-02-01-de-beers-diamond-forever)
+- [ ] Hugo Cornejo, Monzo's first designer · person · marketing · other "unfinished by design" choices he made at Monzo · added 2026-11-03 (from 2026-11-03-09-monzo-unfinished-coral-card)
+- [ ] Fold7's Adrian Lim and Rupert Jordan · people · marketing · other campaigns built on reading out real criticism, beyond Carlsberg · added 2026-11-03 (from 2026-11-03-03-carlsberg-probably-not)
+- [ ] Earl R. Dean, Root Glass Company designer · person · marketing · whether he designed anything else of note after the Coca-Cola bottle · added 2026-11-03 (from 2026-11-03-06-coke-bottle-recognizable-dark)
+- [ ] Elmer Isaacks's 1968 cart wheel-lock patent lineage · patent · marketing · later anti-theft cart patents in the same family, who licenses them today · added 2026-11-03 (from 2026-11-03-28-shopping-cart-wheel-lock-patent)
 
 ### Behavioural psychology
 
-- [ ] The key in the lost wallet · experiment · psychology · a key, worthless to the finder, raised returns on its own · added 2026-10-31 (from 2026-10-31-04-wallets-with-more-money)
-- [ ] Carl Sagan hearing his dead parents' voices · person · psychology · a sceptic's own account of hallucination in The Demon-Haunted World · added 2026-10-31 (from 2026-10-31-23-miners-waking-ghosts)
-- [ ] Yee and Bailenson's later Proteus effect studies · experiment · psychology · what other avatar traits (attractiveness, a uniform, a scar) changed real behaviour after the tall-avatar negotiation result · added 2026-10-31 (from 2026-10-31-17-proteus-effect-tall-avatars)
 - [ ] Fernbach, Rogers, Fox, Sloman's political-extremism replication of IOED · experiment · psychology · explaining a mechanism step by step moderates political extremism · added 2026-11-02 (from 2026-11-02-05-zipper-explanatory-depth)
 - [ ] DellaVigna & Linos's nudge-unit dataset (126 field trials, 23M people) · experiment · psychology · which specific nudge types held up at scale and which collapsed · added 2026-11-02 (from 2026-11-02-21-nudges-shrink-at-scale)
 - [ ] Amaç Herdağdelen, Hailey Joren, Alex Tamkin (Anthropic researchers) · person · psychology · follow-on Anthropic studies on AI-mediated judgment · added 2026-11-02 (from 2026-11-02-06-ai-agents-bias-analysts)
 - [ ] James Sexton's "slippage" theory of divorce · concept · psychology · the specific small disconnections he says precede most divorces · added 2026-11-02 (from 2026-11-02-02-divorce-lawyer-prenup-romantic)
+- [ ] Trafton Drew's later "satisfaction of search" studies · experiment · psychology · what other expert-attention failures he's found since the 2013 gorilla study · added 2026-11-03 (from 2026-11-03-02-radiologists-missed-gorilla)
+- [ ] Timothy Wilson's cross-cultural "doing vs thinking" dataset · experiment · psychology · which of the 12 countries enjoyed solitary thinking least and most, and why · added 2026-11-03 (from 2026-11-03-05-shocked-rather-than-think)
+- [ ] Lee Ross, reactive devaluation's originator · person · psychology · other Stanford negotiation studies beyond the Reagan/Gorbachev proposal · added 2026-11-03 (from 2026-11-03-13-reactive-devaluation)
+- [ ] Joe Hudson's "boundary" coaching framework · person · psychology · what other reframes he uses with founders, beyond resentment · added 2026-11-03 (from 2026-11-03-10-resentment-self-abandonment)
+- [ ] Rob Kurzban's "modular mind" theory · person · psychology · other hypocrisy-as-adaptive-behaviour claims from his book · added 2026-11-03 (from 2026-11-03-19-mob-justice-benefits-you)
 
 ### Founders and company building
 
-- [ ] Tomáš Baťa and Zlín · founder · founders · a shoe company that built a whole town · added 2026-10-31 (seed)
-- [ ] Jim Sinegal and the $1.50 hot dog · founder · founders · the price Costco has refused to raise since 1985 · added 2026-10-31 (from 2026-10-31-25-costco-markup-cap)
-- [ ] Ken Catchpole, human factors · person · founders · other industries he has borrowed from for hospitals · added 2026-10-31 (from 2026-10-31-03-ferrari-pit-crew-surgery)
-- [ ] Osamu Suzuki, adopted son-in-law · founder · founders · how a banker married into Suzuki and ran it for 40 years, full detail beyond the mukoyōshi card · added 2026-10-31 (from 2026-10-31-01-japan-adopts-adult-heirs)
 - [ ] Wendell Weeks, Corning CEO who fielded Steve Jobs's call · person · founders · other Corning bets made under deadline pressure · added 2026-11-02 (from 2026-11-02-03-corning-shelved-gorilla-glass)
 - [ ] Ken Iverson's "Plain Talk" management philosophy · document · founders · Nucor's flat, 25-person HQ structure in more detail · added 2026-11-02 (from 2026-11-02-04-nucor-no-layoffs-2009)
 - [ ] Hiroshi Mikitani's TOEIC-score mandate · founder · founders · what happened to Rakuten employees who missed the English deadline · added 2026-11-02 (from 2026-11-02-17-rakuten-englishnization)
 - [ ] Maciej Cegłowski on Yahoo Pipes' shutdown · person · founders · other internal-policy-killed products he's written about · added 2026-11-02 (rejected candidate, C05)
 - [ ] Kevin Bruner's account of Telltale's internal "formula" rules · founder · founders · what the formula specifically required, beyond "no deviation" · added 2026-11-02 (from 2026-11-02-29-telltale-formula-lock-in)
+- [ ] Marc Porat's "Paradigm" pitch to John Sculley · document · founders · the original internal pitch that became General Magic · added 2026-11-03 (from 2026-11-03-04-general-magic-smartphone-1994)
+- [ ] Jensen Huang's board-level pushback during the 2007-08 CUDA stock crash · founder · founders · who on Nvidia's board nearly forced a reversal · added 2026-11-03 (from 2026-11-03-07-nvidia-cuda-bet)
+- [ ] Phil Schiller's other leaked internal App Store emails · person · founders · what else the Epic v. Apple exhibits revealed about Apple's pricing roadmap · added 2026-11-03 (from 2026-11-03-15-apple-7030-memo)
+- [ ] Howard Schultz's Japanese joint-venture partner (Sazaby League) · company · founders · how the JV structure let Schultz route around the consultant's warning · added 2026-11-03 (from 2026-11-03-18-starbucks-japan-against-advice)
+- [ ] Barney and Ally Hartman, Mountain Dew's original bottlers · founders · founders · what happened to them after Tip Corp. bought the brand · added 2026-11-03 (from 2026-11-03-30-mountain-dew-bourbon-mixer)
 
 ## Dug
 
@@ -94,3 +100,11 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [x] LEGO's 1960 warehouse fire · company · founders · the fire that ended wooden toys · added 2026-10-31 (seed) · dug 2026-11-02 → nothing (verified but cut at the balance check)
 - [x] Kiichiro Toyoda's first car · founder · founders · how the loom company's car division took apart a Chevrolet to learn · added 2026-10-31 (from 2026-10-31-10-toyoda-loom-patent-sale) · dug 2026-11-02 → nothing (rejected: reads as the expected "humble startup" genre)
 - [x] Deborah Gordon's ant colonies · person · founders · what ant colonies show about organisations with no boss · added 2026-10-31 (from 2026-10-31-22-ants-run-tcp) · dug 2026-11-02 → nothing (too close to the already-shown anternet card)
+- [x] Coca-Cola contour bottle brief (1915) · patent · marketing · a bottle recognisable in the dark or broken on the ground · added 2026-10-31 (rejected candidate, C02) · dug 2026-11-03 → 2026-11-03-06-coke-bottle-recognizable-dark
+- [x] Jim Sinegal and the $1.50 hot dog · founder · founders · the price Costco has refused to raise since 1985 · added 2026-10-31 (from 2026-10-31-25-costco-markup-cap) · dug 2026-11-03 → 2026-11-03-01-costco-hot-dog-kill-you
+- [x] The key in the lost wallet · experiment · psychology · a key, worthless to the finder, raised returns on its own · added 2026-10-31 (from 2026-10-31-04-wallets-with-more-money) · dug 2026-11-03 → nothing (the key finding turned out to be embedded in the already-shown 2019 Science paper, not an independent study)
+- [x] Carl Sagan hearing his dead parents' voices · person · psychology · a sceptic's own account of hallucination in The Demon-Haunted World · added 2026-10-31 (from 2026-10-31-23-miners-waking-ghosts) · dug 2026-11-03 → nothing (confirmed in the book but too single-beat to carry a card alone, held as backup)
+- [x] Yee and Bailenson's later Proteus effect studies · experiment · psychology · what other avatar traits changed real behaviour · added 2026-10-31 (from 2026-10-31-17-proteus-effect-tall-avatars) · dug 2026-11-03 → nothing (found Hershfield/Bailenson's age-morphed avatar retirement-savings study, verified but cut at the balance check)
+- [x] Tomáš Baťa and Zlín · founder · founders · a shoe company that built a whole town · added 2026-10-31 (seed) · dug 2026-11-03 → nothing (rich scene-setting but no single counterintuitive mechanism; the ".99 pricing origin" claim is unverified, avoid using it)
+- [x] Ken Catchpole, human factors · person · founders · other industries he has borrowed from for hospitals · added 2026-10-31 (from 2026-10-31-03-ferrari-pit-crew-surgery) · dug 2026-11-03 → nothing (confirmed the 5.42→3.15 handover-error result, held back as too close to the already-shown Ferrari pit crew card)
+- [x] Osamu Suzuki, adopted son-in-law · founder · founders · how a banker married into Suzuki and ran it for 40 years · added 2026-10-31 (from 2026-10-31-01-japan-adopts-adult-heirs) · dug 2026-11-03 → nothing (the newspaper-gambit/telex story is genuinely new and verified, but cut at the balance check)
