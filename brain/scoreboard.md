@@ -48,6 +48,15 @@ featured picks that you later acted on. Silence is neutral.
 - Source failures: Perplexity's research/ask/reason tools returned 403 "requires paid credits" for part of the run, only perplexity_search worked (one digging agent fell back to WebSearch/WebFetch) · schwab.com (Choiceology) bot-blocked on repeated fetch, used secondary coverage instead · Huberman Lab's latest transcript still gated "under human review" · Marketing Against the Grain's latest episode had no usable show notes or transcript · Diary of a CEO's Talarico episode was partisan political commentary, not usable · The Knowledge Project's latest transcript not yet published
 - Candidate discovered sources: lennysnewsletter.com (product-management interviews, kept card 12) · hackaday.com (patent/tech teardowns, kept card 28) · daringfireball.net (court-exhibit analysis, kept card 15) · inudgeyou.com (Danish nudge-unit case studies, kept card 26) · legalclarity.org (kept card 21) · podscripts.co (transcript mirror used for the two Modern Wisdom cards, 10 and 19)
 
+### 2026-11-04
+- Cards: 30 · featured 6 · wildcards 8 · candidates reviewed 50 · rejected at self-review/balance 20
+- Pools: marketing 10 · psychology 10 · founders 10
+- Shapes: 1-hidden-reason 6 · 2-shocking-number 6 · 3-wrong-decision-worked 2 · 4-tiny-change 6 · 5-unknown-origin 3 · 6-day-walk 1 · 7-far-field 3 · 8-unexpected-claim 1 · 9-unfamiliar-concept 2
+- Strategies (kept/tried · featured): S01 1/6 · S02 1/2 f1 · S03 1/1 · S04 1/2 f1 · S05 1/4 f1 · S06 1/1 · S07 1/2 · S08 2/2 · S09 1/3 · S10 1/2 · S11 2/2 f1 · S12 1/5 · S13 2/2 f1 · S14 4/5 f1 · S15 1/2 · S16 3/6 · C01 1/2 · C02 0/1 · C03 1/1 · C04 1/3 · C05 1/1 · C06 1/1 · C08 1/3
+- Sources (kept): Planet Money 1 · 99% Invisible 1 · The Diary of a CEO 1 · The Algorithmic Bridge 1 · Hidden Brain 1 · web search / primary sources (academic papers, government reports, court filings, trade press, company archives) 25
+- Source failures: Perplexity returned 403 "requires paid credits" for the entire session on one digging lane, fell back to WebSearch/WebFetch · four of five shape-8 (S12) candidates dropped for no accessible transcript — Huberman Lab/Robert Greene gated "under human review," How I Built This/Chesky no reachable transcript, Modern Wisdom/James Smith no transcript found, The Knowledge Project/K.C. Irving members-only · NBER RSS timed out · Erik Torenberg, Gary Marcus, Dostoevsky's Blog, exponent and The Substack Post all 403'd on direct feed fetch (reached via site WebFetch instead where possible, per sources.md) · C02 (patents) came up dry, no fresh verifiable find found in time
+- Candidate discovered sources: joshcarter.com (General Magic/Paradigm history, kept card 9) · fasterthannormal.co (Capital Cities/Tom Murphy profile, kept card 21) · finthy.com (Brazilian consumer-finance explainer, kept card 22) · atticusli.com (CRO practitioner blog, kept card 28) · spotler.com (email-marketing platform blog, kept card 7)
+
 ## Weekly summaries
 
 <!-- One block per Sunday:

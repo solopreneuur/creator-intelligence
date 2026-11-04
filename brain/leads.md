@@ -22,10 +22,12 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] Fold7's Adrian Lim and Rupert Jordan · people · marketing · other campaigns built on reading out real criticism, beyond Carlsberg · added 2026-11-03 (from 2026-11-03-03-carlsberg-probably-not)
 - [ ] Earl R. Dean, Root Glass Company designer · person · marketing · whether he designed anything else of note after the Coca-Cola bottle · added 2026-11-03 (from 2026-11-03-06-coke-bottle-recognizable-dark)
 - [ ] Elmer Isaacks's 1968 cart wheel-lock patent lineage · patent · marketing · later anti-theft cart patents in the same family, who licenses them today · added 2026-11-03 (from 2026-11-03-28-shopping-cart-wheel-lock-patent)
+- [ ] Ronny Kohavi's other "too good to be true" Bing experiments · person · marketing · other Twyman's-Law-tripping wins from his ExP Platform tenure · added 2026-11-04 (from 2026-11-04-01-bing-shelved-idea-100-million)
+- [ ] Atticus Li's other failed CRO "best practices" · person · marketing · which other universally-recommended tactics lost his live A/B tests · added 2026-11-04 (from 2026-11-04-28-social-proof-zero-win-ab-tests)
+- [ ] Other luxury brands' hidden allocation schemes · concept · marketing · whether Chanel, Rolex or Louis Vuitton have faced similar "buy-to-qualify" suits · added 2026-11-04 (from 2026-11-04-18-hermes-bag-buying-lottery-lawsuit)
 
 ### Behavioural psychology
 
-- [ ] Fernbach, Rogers, Fox, Sloman's political-extremism replication of IOED · experiment · psychology · explaining a mechanism step by step moderates political extremism · added 2026-11-02 (from 2026-11-02-05-zipper-explanatory-depth)
 - [ ] DellaVigna & Linos's nudge-unit dataset (126 field trials, 23M people) · experiment · psychology · which specific nudge types held up at scale and which collapsed · added 2026-11-02 (from 2026-11-02-21-nudges-shrink-at-scale)
 - [ ] Amaç Herdağdelen, Hailey Joren, Alex Tamkin (Anthropic researchers) · person · psychology · follow-on Anthropic studies on AI-mediated judgment · added 2026-11-02 (from 2026-11-02-06-ai-agents-bias-analysts)
 - [ ] James Sexton's "slippage" theory of divorce · concept · psychology · the specific small disconnections he says precede most divorces · added 2026-11-02 (from 2026-11-02-02-divorce-lawyer-prenup-romantic)
@@ -34,19 +36,22 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] Lee Ross, reactive devaluation's originator · person · psychology · other Stanford negotiation studies beyond the Reagan/Gorbachev proposal · added 2026-11-03 (from 2026-11-03-13-reactive-devaluation)
 - [ ] Joe Hudson's "boundary" coaching framework · person · psychology · what other reframes he uses with founders, beyond resentment · added 2026-11-03 (from 2026-11-03-10-resentment-self-abandonment)
 - [ ] Rob Kurzban's "modular mind" theory · person · psychology · other hypocrisy-as-adaptive-behaviour claims from his book · added 2026-11-03 (from 2026-11-03-19-mob-justice-benefits-you)
+- [ ] Schultz, Nolan, Cialdini & Goldstein's household-electricity descriptive-norm studies · experiment · psychology · the San Marcos/Sacramento energy-use field trials paired with the petrified-wood work · added 2026-11-04 (from 2026-11-04-03-petrified-wood-sign-backfire)
+- [ ] Hubert O'Gorman's 1975 segregation pluralistic-ignorance study · experiment · psychology · how badly white Americans overestimated peer support for segregation · added 2026-11-04 (from 2026-11-04-04-pluralistic-ignorance-campus-drinking)
+- [ ] Güntürkün et al.'s other default-effect crowding-out findings · experiment · psychology · whether the same opt-out backfire shows up in retirement-savings or recycling defaults · added 2026-11-04 (from 2026-11-04-29-default-that-cuts-living-donors)
+- [ ] Paul Eastwick's compatibility-modeling dataset · person · psychology · what traits his unpredictable-chemistry models tried and failed to use · added 2026-11-04 (from 2026-11-04-20-dating-apps-crush-her-selectivity)
 
 ### Founders and company building
 
-- [ ] Wendell Weeks, Corning CEO who fielded Steve Jobs's call · person · founders · other Corning bets made under deadline pressure · added 2026-11-02 (from 2026-11-02-03-corning-shelved-gorilla-glass)
-- [ ] Ken Iverson's "Plain Talk" management philosophy · document · founders · Nucor's flat, 25-person HQ structure in more detail · added 2026-11-02 (from 2026-11-02-04-nucor-no-layoffs-2009)
-- [ ] Hiroshi Mikitani's TOEIC-score mandate · founder · founders · what happened to Rakuten employees who missed the English deadline · added 2026-11-02 (from 2026-11-02-17-rakuten-englishnization)
 - [ ] Maciej Cegłowski on Yahoo Pipes' shutdown · person · founders · other internal-policy-killed products he's written about · added 2026-11-02 (rejected candidate, C05)
-- [ ] Kevin Bruner's account of Telltale's internal "formula" rules · founder · founders · what the formula specifically required, beyond "no deviation" · added 2026-11-02 (from 2026-11-02-29-telltale-formula-lock-in)
-- [ ] Marc Porat's "Paradigm" pitch to John Sculley · document · founders · the original internal pitch that became General Magic · added 2026-11-03 (from 2026-11-03-04-general-magic-smartphone-1994)
 - [ ] Jensen Huang's board-level pushback during the 2007-08 CUDA stock crash · founder · founders · who on Nvidia's board nearly forced a reversal · added 2026-11-03 (from 2026-11-03-07-nvidia-cuda-bet)
 - [ ] Phil Schiller's other leaked internal App Store emails · person · founders · what else the Epic v. Apple exhibits revealed about Apple's pricing roadmap · added 2026-11-03 (from 2026-11-03-15-apple-7030-memo)
 - [ ] Howard Schultz's Japanese joint-venture partner (Sazaby League) · company · founders · how the JV structure let Schultz route around the consultant's warning · added 2026-11-03 (from 2026-11-03-18-starbucks-japan-against-advice)
 - [ ] Barney and Ally Hartman, Mountain Dew's original bottlers · founders · founders · what happened to them after Tip Corp. bought the brand · added 2026-11-03 (from 2026-11-03-30-mountain-dew-bourbon-mixer)
+- [ ] Henri Lamiraux and the 2005 iPhone keyboard crisis demo · person · founders · the Forstall demo-or-die culture Kocienda describes in Creative Selection · added 2026-11-04 (from 2026-11-04-06-autocorrect-slur-dictionary)
+- [ ] Dan Burke, Capital Cities' co-CEO · person · founders · his half of the Murphy/Burke decentralized management partnership · added 2026-11-04 (from 2026-11-04-21-capital-cities-decentralization-letter)
+- [ ] Robert Miller's side of the DFS/LVMH breakup · person · founders · how Miller has told the story of discovering Feeney's secret giveaway · added 2026-11-04 (from 2026-11-04-05-feeney-hid-duty-free-fortune)
+- [ ] MIT CSAIL's weight-space programming researchers · people · founders · what other "surgical" model edits they've since published · added 2026-11-04 (from 2026-11-04-24-ai-edited-a-models-brain)
 
 ## Dug
 
@@ -108,3 +113,9 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [x] Tomáš Baťa and Zlín · founder · founders · a shoe company that built a whole town · added 2026-10-31 (seed) · dug 2026-11-03 → nothing (rich scene-setting but no single counterintuitive mechanism; the ".99 pricing origin" claim is unverified, avoid using it)
 - [x] Ken Catchpole, human factors · person · founders · other industries he has borrowed from for hospitals · added 2026-10-31 (from 2026-10-31-03-ferrari-pit-crew-surgery) · dug 2026-11-03 → nothing (confirmed the 5.42→3.15 handover-error result, held back as too close to the already-shown Ferrari pit crew card)
 - [x] Osamu Suzuki, adopted son-in-law · founder · founders · how a banker married into Suzuki and ran it for 40 years · added 2026-10-31 (from 2026-10-31-01-japan-adopts-adult-heirs) · dug 2026-11-03 → nothing (the newspaper-gambit/telex story is genuinely new and verified, but cut at the balance check)
+- [x] Fernbach, Rogers, Fox, Sloman's political-extremism replication of IOED · experiment · psychology · explaining a mechanism step by step moderates political extremism · added 2026-11-02 (from 2026-11-02-05-zipper-explanatory-depth) · dug 2026-11-04 → 2026-11-04-26-explaining-policy-cools-politics
+- [x] Wendell Weeks, Corning CEO who fielded Steve Jobs's call · person · founders · other Corning bets made under deadline pressure · added 2026-11-02 (from 2026-11-02-03-corning-shelved-gorilla-glass) · dug 2026-11-04 → nothing (every angle rolls up into the already-shown Gorilla Glass story)
+- [x] Ken Iverson's "Plain Talk" management philosophy · document · founders · Nucor's flat, 25-person HQ structure in more detail · added 2026-11-02 (from 2026-11-02-04-nucor-no-layoffs-2009) · dug 2026-11-04 → 2026-11-04-15-nucor-22-person-headquarters
+- [x] Kevin Bruner's account of Telltale's internal "formula" rules · founder · founders · what the formula specifically required, beyond "no deviation" · added 2026-11-02 (from 2026-11-02-29-telltale-formula-lock-in) · dug 2026-11-04 → nothing (confirmed the 50/50 choice-split design rule, but it's the same mechanism as the already-shown telltale-formula-lock-in card)
+- [x] Marc Porat's "Paradigm" pitch to John Sculley · document · founders · the original internal pitch that became General Magic · added 2026-11-03 (from 2026-11-03-04-general-magic-smartphone-1994) · dug 2026-11-04 → 2026-11-04-09-general-magic-trash-pitch-book
+- [x] Hiroshi Mikitani's TOEIC-score mandate · founder · founders · what happened to Rakuten employees who missed the English deadline · added 2026-11-02 (from 2026-11-02-17-rakuten-englishnization) · dug 2026-11-04 → nothing (526→697 TOEIC-score detail confirmed, but the core Englishnization story is already shown; too close)
