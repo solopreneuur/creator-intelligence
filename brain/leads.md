@@ -11,7 +11,6 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 
 ### Marketing
 
-- [ ] Guinness "Surfer" ad (1999) · campaign · marketing · how the "wait" idea was dramatised, and the fast-pour tap test that followed · added 2026-10-31 (from 2026-10-31-09-guinness-slow-pour-reframe)
 - [ ] Loren Brichter's Tweetie · person · marketing · what else the one-man app he sold to Twitter shipped before pull-to-refresh · added 2026-10-31 (from 2026-10-31-30-pull-to-refresh-regret)
 - [ ] Repricing algorithms named in other antitrust suits · concept · marketing · whether rivals of Amazon have had their own "Project Nessie" exposed in litigation · added 2026-10-31 (from 2026-10-31-19-amazon-project-nessie)
 - [ ] Jon Steel, the Goodby Silverstein planner behind "Got Milk?" · person · marketing · other campaigns he built from unconventional focus-group methods · added 2026-11-02 (from 2026-11-02-22-got-milk-deprivation)
@@ -25,10 +24,12 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] Ronny Kohavi's other "too good to be true" Bing experiments · person · marketing · other Twyman's-Law-tripping wins from his ExP Platform tenure · added 2026-11-04 (from 2026-11-04-01-bing-shelved-idea-100-million)
 - [ ] Atticus Li's other failed CRO "best practices" · person · marketing · which other universally-recommended tactics lost his live A/B tests · added 2026-11-04 (from 2026-11-04-28-social-proof-zero-win-ab-tests)
 - [ ] Other luxury brands' hidden allocation schemes · concept · marketing · whether Chanel, Rolex or Louis Vuitton have faced similar "buy-to-qualify" suits · added 2026-11-04 (from 2026-11-04-18-hermes-bag-buying-lottery-lawsuit)
+- [ ] Bob Hoffman, "The Ad Contrarian" · person · marketing · other blunt claims about advertising from his podcast and blog · added 2026-11-05 (from 2026-11-05-29-bob-hoffman-nobody-sees-ads)
+- [ ] Nestlé's other "deliberately exclude a group" campaigns · concept · marketing · whether any campaign since Yorkie's 2002 relaunch tried the same exclusion play · added 2026-11-05 (from 2026-11-05-20-yorkie-not-for-girls-campaign)
+- [ ] Jared Spool's "$300 million button" retailer · person · marketing · whether the anonymous retailer behind the guest-checkout case study can be identified · added 2026-11-05 (rejected candidate, S07)
 
 ### Behavioural psychology
 
-- [ ] DellaVigna & Linos's nudge-unit dataset (126 field trials, 23M people) · experiment · psychology · which specific nudge types held up at scale and which collapsed · added 2026-11-02 (from 2026-11-02-21-nudges-shrink-at-scale)
 - [ ] Amaç Herdağdelen, Hailey Joren, Alex Tamkin (Anthropic researchers) · person · psychology · follow-on Anthropic studies on AI-mediated judgment · added 2026-11-02 (from 2026-11-02-06-ai-agents-bias-analysts)
 - [ ] James Sexton's "slippage" theory of divorce · concept · psychology · the specific small disconnections he says precede most divorces · added 2026-11-02 (from 2026-11-02-02-divorce-lawyer-prenup-romantic)
 - [ ] Trafton Drew's later "satisfaction of search" studies · experiment · psychology · what other expert-attention failures he's found since the 2013 gorilla study · added 2026-11-03 (from 2026-11-03-02-radiologists-missed-gorilla)
@@ -40,10 +41,12 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] Hubert O'Gorman's 1975 segregation pluralistic-ignorance study · experiment · psychology · how badly white Americans overestimated peer support for segregation · added 2026-11-04 (from 2026-11-04-04-pluralistic-ignorance-campus-drinking)
 - [ ] Güntürkün et al.'s other default-effect crowding-out findings · experiment · psychology · whether the same opt-out backfire shows up in retirement-savings or recycling defaults · added 2026-11-04 (from 2026-11-04-29-default-that-cuts-living-donors)
 - [ ] Paul Eastwick's compatibility-modeling dataset · person · psychology · what traits his unpredictable-chemistry models tried and failed to use · added 2026-11-04 (from 2026-11-04-20-dating-apps-crush-her-selectivity)
+- [ ] Michael Roszak's other Google internal communications-training docs · document · psychology · what else surfaced as exhibits in US v. Google · added 2026-11-05 (from 2026-11-05-07-google-memo-users-ignorable)
+- [ ] Modern replications of the pique technique · experiment · psychology · whether the 17-cents effect holds for email subject lines or price endings, not just panhandling · added 2026-11-05 (from 2026-11-05-03-panhandler-asks-for-17-cents)
+- [ ] Cristian, Fennis, Mukhopadhyay & Warlop's self-compassion dataset · experiment · psychology · why the rice-cracker control condition killed the generosity effect entirely · added 2026-11-05 (from 2026-11-05-06-treat-yourself-makes-you-generous)
 
 ### Founders and company building
 
-- [ ] Maciej Cegłowski on Yahoo Pipes' shutdown · person · founders · other internal-policy-killed products he's written about · added 2026-11-02 (rejected candidate, C05)
 - [ ] Jensen Huang's board-level pushback during the 2007-08 CUDA stock crash · founder · founders · who on Nvidia's board nearly forced a reversal · added 2026-11-03 (from 2026-11-03-07-nvidia-cuda-bet)
 - [ ] Phil Schiller's other leaked internal App Store emails · person · founders · what else the Epic v. Apple exhibits revealed about Apple's pricing roadmap · added 2026-11-03 (from 2026-11-03-15-apple-7030-memo)
 - [ ] Howard Schultz's Japanese joint-venture partner (Sazaby League) · company · founders · how the JV structure let Schultz route around the consultant's warning · added 2026-11-03 (from 2026-11-03-18-starbucks-japan-against-advice)
@@ -52,6 +55,12 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] Dan Burke, Capital Cities' co-CEO · person · founders · his half of the Murphy/Burke decentralized management partnership · added 2026-11-04 (from 2026-11-04-21-capital-cities-decentralization-letter)
 - [ ] Robert Miller's side of the DFS/LVMH breakup · person · founders · how Miller has told the story of discovering Feeney's secret giveaway · added 2026-11-04 (from 2026-11-04-05-feeney-hid-duty-free-fortune)
 - [ ] MIT CSAIL's weight-space programming researchers · people · founders · what other "surgical" model edits they've since published · added 2026-11-04 (from 2026-11-04-24-ai-edited-a-models-brain)
+- [ ] Robert Morley's holding company after the 2016 Square settlement · person · founders · what Morley did with the patent rights he kept · added 2026-11-05 (from 2026-11-05-02-square-patent-not-founders)
+- [ ] Gunpei Yokoi's other "withered technology" calls · person · founders · which other Nintendo products deliberately used cheap, mature tech over the newest spec · added 2026-11-05 (from 2026-11-05-10-game-boy-monochrome-screen-choice)
+- [ ] Danger Inc.'s other co-founders · people · founders · what happened to them after Microsoft's Kin shut down in 2010 · added 2026-11-05 (from 2026-11-05-16-danger-inc-andy-rubin-fired-android)
+- [ ] Yu Donglai, Pang Dong Lai's founder · person · founders · his own account of why he caps store hours and closes profitable locations · added 2026-11-05 (from 2026-11-05-25-pang-dong-lai-self-imposed-limits)
+- [ ] Thomas Seeley's other animal-collective decision research · person · founders · whether ant colonies or fish schools show the same quorum-sensing pattern as honeybee swarms · added 2026-11-05 (from 2026-11-05-22-honeybee-quorum-sensing-decision)
+- [ ] Gene Kranz's later Mission Rules · document · founders · which pre-written rules got tested for real in missions after Apollo 13 · added 2026-11-05 (from 2026-11-05-05-nasa-mission-rules-before-crisis)
 
 ## Dug
 
@@ -119,3 +128,6 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [x] Kevin Bruner's account of Telltale's internal "formula" rules · founder · founders · what the formula specifically required, beyond "no deviation" · added 2026-11-02 (from 2026-11-02-29-telltale-formula-lock-in) · dug 2026-11-04 → nothing (confirmed the 50/50 choice-split design rule, but it's the same mechanism as the already-shown telltale-formula-lock-in card)
 - [x] Marc Porat's "Paradigm" pitch to John Sculley · document · founders · the original internal pitch that became General Magic · added 2026-11-03 (from 2026-11-03-04-general-magic-smartphone-1994) · dug 2026-11-04 → 2026-11-04-09-general-magic-trash-pitch-book
 - [x] Hiroshi Mikitani's TOEIC-score mandate · founder · founders · what happened to Rakuten employees who missed the English deadline · added 2026-11-02 (from 2026-11-02-17-rakuten-englishnization) · dug 2026-11-04 → nothing (526→697 TOEIC-score detail confirmed, but the core Englishnization story is already shown; too close)
+- [x] Guinness "Surfer" ad (1999) · campaign · marketing · how the "wait" idea was dramatised, and the fast-pour tap test that followed · added 2026-10-31 (from 2026-10-31-09-guinness-slow-pour-reframe) · dug 2026-11-05 → 2026-11-05-11-guinness-nitrosurge-fast-pour (the "Surfer" ad angle itself was dropped as too told-everywhere in ad circles; used the Nitrosurge fast-pour-at-home angle instead)
+- [x] DellaVigna & Linos's nudge-unit dataset (126 field trials, 23M people) · experiment · psychology · which specific nudge types held up at scale and which collapsed · added 2026-11-02 (from 2026-11-02-21-nudges-shrink-at-scale) · dug 2026-11-05 → 2026-11-05-18-default-switch-nudge-holds-at-scale
+- [x] Maciej Cegłowski on Yahoo Pipes' shutdown · person · founders · other internal-policy-killed products he's written about · added 2026-11-02 (rejected candidate, C05) · dug 2026-11-05 → nothing (his only other concrete anecdote, Delicious under Yahoo, is the same Yahoo-mismanagement mechanism already rejected)
