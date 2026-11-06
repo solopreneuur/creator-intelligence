@@ -11,13 +11,13 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 
 ### Marketing
 
-- [ ] Loren Brichter's Tweetie · person · marketing · what else the one-man app he sold to Twitter shipped before pull-to-refresh · added 2026-10-31 (from 2026-10-31-30-pull-to-refresh-regret)
-- [ ] Repricing algorithms named in other antitrust suits · concept · marketing · whether rivals of Amazon have had their own "Project Nessie" exposed in litigation · added 2026-10-31 (from 2026-10-31-19-amazon-project-nessie)
-- [ ] Jon Steel, the Goodby Silverstein planner behind "Got Milk?" · person · marketing · other campaigns he built from unconventional focus-group methods · added 2026-11-02 (from 2026-11-02-22-got-milk-deprivation)
 - [ ] Leo Burnett's rejected Marlboro mascots (sea captains, weightlifters) · campaign · marketing · why the cowboy beat the other options tested · added 2026-11-02 (from 2026-11-02-07-marlboro-gender-flip)
 - [ ] Dan Phillips, retail designer · person · marketing · other "frozen assumption" retail design choices he's documented · added 2026-11-02 (from 2026-11-02-18-doorless-dairy-case)
 - [ ] Frances Gerety's 25 years of later De Beers ads · person · marketing · how the "two months' salary" rule was actually introduced in the 1980s · added 2026-11-02 (from 2026-11-02-01-de-beers-diamond-forever)
 - [ ] Hugo Cornejo, Monzo's first designer · person · marketing · other "unfinished by design" choices he made at Monzo · added 2026-11-03 (from 2026-11-03-09-monzo-unfinished-coral-card)
+- [ ] Wu & Cosguner's diamond retailer identity · company · marketing · which online diamond retailer the 2020 Marketing Science decoy-effect study used, and whether it still runs the same decoy layout · added 2026-11-06 (from 2026-11-06-07-diamond-decoy-real-money)
+- [ ] Andy Szybalski's other Uber Eats "manage the feeling" design calls · person · marketing · other cases where Uber Eats chose a less-accurate but more reassuring number over an accurate one · added 2026-11-06 (from 2026-11-06-17-uber-eats-frozen-eta)
+- [ ] e.l.f. Cosmetics x Liquid Death "Corpse Paint" collab · campaign · marketing · verify the sellout-time and new-customer-share numbers against a primary e.l.f. source · added 2026-11-06 (from S15 sweep)
 - [ ] Fold7's Adrian Lim and Rupert Jordan · people · marketing · other campaigns built on reading out real criticism, beyond Carlsberg · added 2026-11-03 (from 2026-11-03-03-carlsberg-probably-not)
 - [ ] Earl R. Dean, Root Glass Company designer · person · marketing · whether he designed anything else of note after the Coca-Cola bottle · added 2026-11-03 (from 2026-11-03-06-coke-bottle-recognizable-dark)
 - [ ] Elmer Isaacks's 1968 cart wheel-lock patent lineage · patent · marketing · later anti-theft cart patents in the same family, who licenses them today · added 2026-11-03 (from 2026-11-03-28-shopping-cart-wheel-lock-patent)
@@ -27,12 +27,11 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] Bob Hoffman, "The Ad Contrarian" · person · marketing · other blunt claims about advertising from his podcast and blog · added 2026-11-05 (from 2026-11-05-29-bob-hoffman-nobody-sees-ads)
 - [ ] Nestlé's other "deliberately exclude a group" campaigns · concept · marketing · whether any campaign since Yorkie's 2002 relaunch tried the same exclusion play · added 2026-11-05 (from 2026-11-05-20-yorkie-not-for-girls-campaign)
 - [ ] Jared Spool's "$300 million button" retailer · person · marketing · whether the anonymous retailer behind the guest-checkout case study can be identified · added 2026-11-05 (rejected candidate, S07)
+- [ ] GoCardless's other one-word homepage A/B tests · company · marketing · whether the same team ran other "Request vs Watch"-style wording swaps beyond the 2014 demo button · added 2026-11-06 (from 2026-11-06-23-gocardless-watch-a-demo)
 
 ### Behavioural psychology
 
-- [ ] Amaç Herdağdelen, Hailey Joren, Alex Tamkin (Anthropic researchers) · person · psychology · follow-on Anthropic studies on AI-mediated judgment · added 2026-11-02 (from 2026-11-02-06-ai-agents-bias-analysts)
 - [ ] James Sexton's "slippage" theory of divorce · concept · psychology · the specific small disconnections he says precede most divorces · added 2026-11-02 (from 2026-11-02-02-divorce-lawyer-prenup-romantic)
-- [ ] Trafton Drew's later "satisfaction of search" studies · experiment · psychology · what other expert-attention failures he's found since the 2013 gorilla study · added 2026-11-03 (from 2026-11-03-02-radiologists-missed-gorilla)
 - [ ] Timothy Wilson's cross-cultural "doing vs thinking" dataset · experiment · psychology · which of the 12 countries enjoyed solitary thinking least and most, and why · added 2026-11-03 (from 2026-11-03-05-shocked-rather-than-think)
 - [ ] Lee Ross, reactive devaluation's originator · person · psychology · other Stanford negotiation studies beyond the Reagan/Gorbachev proposal · added 2026-11-03 (from 2026-11-03-13-reactive-devaluation)
 - [ ] Joe Hudson's "boundary" coaching framework · person · psychology · what other reframes he uses with founders, beyond resentment · added 2026-11-03 (from 2026-11-03-10-resentment-self-abandonment)
@@ -44,13 +43,13 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] Michael Roszak's other Google internal communications-training docs · document · psychology · what else surfaced as exhibits in US v. Google · added 2026-11-05 (from 2026-11-05-07-google-memo-users-ignorable)
 - [ ] Modern replications of the pique technique · experiment · psychology · whether the 17-cents effect holds for email subject lines or price endings, not just panhandling · added 2026-11-05 (from 2026-11-05-03-panhandler-asks-for-17-cents)
 - [ ] Cristian, Fennis, Mukhopadhyay & Warlop's self-compassion dataset · experiment · psychology · why the rice-cracker control condition killed the generosity effect entirely · added 2026-11-05 (from 2026-11-05-06-treat-yourself-makes-you-generous)
+- [ ] David Geary's other claimed drivers of human brain expansion · person · psychology · what else he argues shaped the mind besides warfare, beyond the lineage-bottleneck claim · added 2026-11-06 (from 2026-11-06-18-ancient-warfare-male-lineage)
+- [ ] Robert Hodgson's wine-competition concordance data across 13 U.S. competitions · experiment · psychology · whether a sharper single number exists beyond the ~10% self-agreement rate · added 2026-11-06 (from 2026-11-06-12-wine-judges-disagree-with-self)
+- [ ] Hall & Madsen's highway death-toll sign study · experiment · psychology · whether other U.S. states or countries have replicated or reversed the sign-backfire finding · added 2026-11-06 (from 2026-11-06-15-highway-sign-more-crashes)
+- [ ] Vul & Pashler's "crowd within" dialectical bootstrapping · experiment · psychology · whether later work found an optimal re-ask interval, or whether it works for subjective (not just numeric) judgments · added 2026-11-06 (from 2026-11-06-27-guess-twice-crowd-within)
 
 ### Founders and company building
 
-- [ ] Jensen Huang's board-level pushback during the 2007-08 CUDA stock crash · founder · founders · who on Nvidia's board nearly forced a reversal · added 2026-11-03 (from 2026-11-03-07-nvidia-cuda-bet)
-- [ ] Phil Schiller's other leaked internal App Store emails · person · founders · what else the Epic v. Apple exhibits revealed about Apple's pricing roadmap · added 2026-11-03 (from 2026-11-03-15-apple-7030-memo)
-- [ ] Howard Schultz's Japanese joint-venture partner (Sazaby League) · company · founders · how the JV structure let Schultz route around the consultant's warning · added 2026-11-03 (from 2026-11-03-18-starbucks-japan-against-advice)
-- [ ] Barney and Ally Hartman, Mountain Dew's original bottlers · founders · founders · what happened to them after Tip Corp. bought the brand · added 2026-11-03 (from 2026-11-03-30-mountain-dew-bourbon-mixer)
 - [ ] Henri Lamiraux and the 2005 iPhone keyboard crisis demo · person · founders · the Forstall demo-or-die culture Kocienda describes in Creative Selection · added 2026-11-04 (from 2026-11-04-06-autocorrect-slur-dictionary)
 - [ ] Dan Burke, Capital Cities' co-CEO · person · founders · his half of the Murphy/Burke decentralized management partnership · added 2026-11-04 (from 2026-11-04-21-capital-cities-decentralization-letter)
 - [ ] Robert Miller's side of the DFS/LVMH breakup · person · founders · how Miller has told the story of discovering Feeney's secret giveaway · added 2026-11-04 (from 2026-11-04-05-feeney-hid-duty-free-fortune)
@@ -61,6 +60,10 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [ ] Yu Donglai, Pang Dong Lai's founder · person · founders · his own account of why he caps store hours and closes profitable locations · added 2026-11-05 (from 2026-11-05-25-pang-dong-lai-self-imposed-limits)
 - [ ] Thomas Seeley's other animal-collective decision research · person · founders · whether ant colonies or fish schools show the same quorum-sensing pattern as honeybee swarms · added 2026-11-05 (from 2026-11-05-22-honeybee-quorum-sensing-decision)
 - [ ] Gene Kranz's later Mission Rules · document · founders · which pre-written rules got tested for real in missions after Apollo 13 · added 2026-11-05 (from 2026-11-05-05-nasa-mission-rules-before-crisis)
+- [ ] Jeff Smith / Starboard Value's other activist campaigns · person · founders · whether Starboard forced similar bet-reversal fights at other tech companies, for contrast cases · added 2026-11-06 (from 2026-11-06-19-nvidia-board-nearly-fired-huang)
+- [ ] People Make Games' other game-industry corporate exposés · source · founders · what other investigative pieces this outlet has done on studio internal dysfunction beyond Valve · added 2026-11-06 (from 2026-11-06-06-valve-flat-structure-freeze)
+- [ ] Dan Colussy's investor group after the Iridium turnaround · people · founders · what else this group (Syncom, Quadrant, Inepar) did with distressed-asset telecom bets · added 2026-11-06 (from 2026-11-06-05-iridium-satellites-fire-sale)
+- [ ] Donald Graham / Washington Post Co.'s other candid annual-report quotes · document · founders · whether other Graham-era letters have similarly unfiltered quoted family reactions · added 2026-11-06 (from 2026-11-06-28-katharine-graham-kaplan-quote)
 
 ## Dug
 
@@ -131,3 +134,12 @@ When dug, tick it and append ` · dug YYYY-MM-DD → card id` (or `→ nothing`)
 - [x] Guinness "Surfer" ad (1999) · campaign · marketing · how the "wait" idea was dramatised, and the fast-pour tap test that followed · added 2026-10-31 (from 2026-10-31-09-guinness-slow-pour-reframe) · dug 2026-11-05 → 2026-11-05-11-guinness-nitrosurge-fast-pour (the "Surfer" ad angle itself was dropped as too told-everywhere in ad circles; used the Nitrosurge fast-pour-at-home angle instead)
 - [x] DellaVigna & Linos's nudge-unit dataset (126 field trials, 23M people) · experiment · psychology · which specific nudge types held up at scale and which collapsed · added 2026-11-02 (from 2026-11-02-21-nudges-shrink-at-scale) · dug 2026-11-05 → 2026-11-05-18-default-switch-nudge-holds-at-scale
 - [x] Maciej Cegłowski on Yahoo Pipes' shutdown · person · founders · other internal-policy-killed products he's written about · added 2026-11-02 (rejected candidate, C05) · dug 2026-11-05 → nothing (his only other concrete anecdote, Delicious under Yahoo, is the same Yahoo-mismanagement mechanism already rejected)
+- [x] Loren Brichter's Tweetie · person · marketing · what else the one-man app he sold to Twitter shipped before pull-to-refresh · added 2026-10-31 (from 2026-10-31-30-pull-to-refresh-regret) · dug 2026-11-06 → nothing (found the pre-2.0 swipe-to-reveal "Quick Actions" gesture, but too close to the already-shown pull-to-refresh card)
+- [x] Repricing algorithms named in other antitrust suits · concept · marketing · whether rivals of Amazon have had their own "Project Nessie" exposed in litigation · added 2026-10-31 (from 2026-10-31-19-amazon-project-nessie) · dug 2026-11-06 → nothing (found RealPage/YieldStar's rental-housing price-fixing suit, verified but cut at the balance check)
+- [x] Jon Steel, the Goodby Silverstein planner behind "Got Milk?" · person · marketing · other campaigns he built from unconventional focus-group methods · added 2026-11-02 (from 2026-11-02-22-got-milk-deprivation) · dug 2026-11-06 → nothing (no verified campaign beyond Got Milk? found)
+- [x] Amaç Herdağdelen, Hailey Joren, Alex Tamkin (Anthropic researchers) · person · psychology · follow-on Anthropic studies on AI-mediated judgment · added 2026-11-02 (from 2026-11-02-06-ai-agents-bias-analysts) · dug 2026-11-06 → nothing (no sequel paper found as of Nov 2026; substituted a different Joren paper on AI confidence under uncertainty, held as backup, not used)
+- [x] Trafton Drew's later "satisfaction of search" studies · experiment · psychology · what other expert-attention failures he's found since the 2013 gorilla study · added 2026-11-03 (from 2026-11-03-02-radiologists-missed-gorilla) · dug 2026-11-06 → 2026-11-06-24-radiologists-told-to-look-broader
+- [x] Jensen Huang's board-level pushback during the 2007-08 CUDA stock crash · founder · founders · who on Nvidia's board nearly forced a reversal · added 2026-11-03 (from 2026-11-03-07-nvidia-cuda-bet) · dug 2026-11-06 → 2026-11-06-19-nvidia-board-nearly-fired-huang
+- [x] Phil Schiller's other leaked internal App Store emails · person · founders · what else the Epic v. Apple exhibits revealed about Apple's pricing roadmap · added 2026-11-03 (from 2026-11-03-15-apple-7030-memo) · dug 2026-11-06 → nothing (found a 2011 Facebook carve-out email, verified but cut at the balance check)
+- [x] Howard Schultz's Japanese joint-venture partner (Sazaby League) · company · founders · how the JV structure let Schultz route around the consultant's warning · added 2026-11-03 (from 2026-11-03-18-starbucks-japan-against-advice) · dug 2026-11-06 → nothing (found the below-market exit price Sazaby took in 2014, verified but cut at the balance check)
+- [x] Barney and Ally Hartman, Mountain Dew's original bottlers · founders · founders · what happened to them after Tip Corp. bought the brand · added 2026-11-03 (from 2026-11-03-30-mountain-dew-bourbon-mixer) · dug 2026-11-06 → nothing (found the son's own $1,500 near-miss story, verified but cut at the balance check)
