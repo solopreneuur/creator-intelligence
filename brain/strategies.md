@@ -93,6 +93,21 @@ name the strategy that found them (`strategy: S05`).
 - **How:** Dig into the oldest queued leads first, plus any lead you dropped in. Mark each one dug.
 - **Started:** 2026-10-31
 
+### S17 · Disaster-written protocol
+- **Shape:** 7-far-field · **Aimed at:** Founders, Psychology
+- **How:** A rule, checklist or protocol written in direct response to a catastrophe or near-miss (aviation, military, mountaineering, space), that later carried over to business or decision-making. NASA's Mission Rules, post-crash aviation checklists, expedition-behavior codes.
+- **Parent:** S11 · **Started:** 2026-11-08
+
+### S18 · Idea meets object
+- **Shape:** 9-unfamiliar-concept · **Aimed at:** Psychology
+- **How:** Pair a named psychological effect or bias with one ordinary, nameable object or action people already handle daily (a zipper, a mattress tag) rather than a lab setup. The object is the hook; the name is the payoff.
+- **Parent:** S13 · **Started:** 2026-11-08
+
+### S19 · The abandoned detour
+- **Shape:** 5-unknown-origin · **Aimed at:** Founders
+- **How:** What a now-famous founder or company tried and dropped before the thing that made them famous — a real abandoned attempt (Nintendo's taxis and love hotels), not just a generic "started as X" origin.
+- **Parent:** S09 · **Started:** 2026-11-08
+
 ## Contestants
 
 The unusual dig sites. They are tested, not debated.
@@ -144,3 +159,7 @@ The unusual dig sites. They are tested, not debated.
 ## Changelog
 
 <!-- One dated line per change: bred, retired, promoted. -->
+
+- 2026-11-08: Bred S17 (Parent: S11) — far-field narrowed to disaster-written protocols, after the B17-crash checklist card was deepened and the NASA Mission Rules card landed as a featured far-field find in the same week.
+- 2026-11-08: Bred S18 (Parent: S13) — named-idea-hunt narrowed to idea-meets-object pairings, after the zipper/illusion-of-explanatory-depth card was deepened, bridged and featured.
+- 2026-11-08: Bred S19 (Parent: S09) — unknown-origin narrowed to the abandoned detour before fame, after the Nintendo taxis/love-hotels card drew a deepen and a bridge despite not being featured.

@@ -142,7 +142,7 @@ three pools: the pool its principle carries into.
 
 ### Erik Torenberg
 - Type: Substack · Pool: Founders · Shapes: 3
-- Status: active (latest 2026-10-02)
+- Status: active (latest 2026-10-02). Marked: 403'd on direct feed fetch on every day attempted in the week of 2026-11-02, consistent with every week since launch (started 2026-10-31; not yet a month of data, so not cut).
 - Feed: https://eriktorenberg.substack.com/feed
 
 ### 99% Invisible
@@ -182,7 +182,7 @@ three pools: the pool its principle carries into.
 
 ### Gary Marcus
 - Type: Substack · Pool: Far-field, AI perspective · Shapes: 8
-- Status: active (latest 2026-10-31)
+- Status: active (latest 2026-10-31). Marked: 403'd on direct feed fetch on every day attempted in the week of 2026-11-02, consistent with every week since launch (started 2026-10-31; not yet a month of data, so not cut).
 - Feed: https://garymarcus.substack.com/feed
 
 ### Digital Minds
@@ -228,3 +228,10 @@ three pools: the pool its principle carries into.
 promotes ones that keep producing kept cards. Format as above, plus:
 - Discovered: YYYY-MM-DD, from card <id>
 -->
+
+### podscripts.co
+- Type: Podcast transcript mirror · Pool: All three (used so far for Modern Wisdom) · Shapes: any
+- Status: active. Produced kept cards on two separate days of the week of 2026-11-02 (2026-11-03 and 2026-11-06).
+- Feed: none
+- Reach: web search `site:podscripts.co` + show name and episode, or WebFetch the show's transcript page directly.
+- Discovered: 2026-11-03, from the week's Modern Wisdom transcript cards. Promoted: 2026-11-08 (kept cards on 2+ days).

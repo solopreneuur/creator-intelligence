@@ -4,9 +4,8 @@ A plain-English model of what interests you and why. The weekly run rewrites it
 from the week's signals. You can correct it by hand at any time. About a quarter
 of each run (the wildcards) ignores this file on purpose.
 
-Last rewritten: 2026-10-31 (first weekly run; still the starting profile — the
-week behind it is the launch day itself, with no reply signals yet to rewrite
-it by)
+Last rewritten: 2026-11-08 (second weekly run; first one with real reply
+signals to rewrite by, though still only one week's worth)
 
 ## What you're after
 
@@ -36,6 +35,9 @@ it by)
   specific objects.
 - **Popular companies are welcome** when the story is a specific, little-known
   detail, not the generic one ("how Apple scaled").
+- **A move straight to bridge.** Early signal (one week, five cards): touched
+  cards get taken to a bridge quickly, sometimes without a separate deepen
+  first. Not yet enough data to treat as settled, but worth tracking.
 
 ## What doesn't
 
@@ -53,8 +55,34 @@ is the check. Quotes are the exception: real person, real clip, timestamp.
 
 ## Signals so far
 
-None yet. Week of 2026-10-26: 30 cards shown on 2026-10-31 (6 featured, 7
-wildcards, spread across all three pools and nine shapes), but zero replies
-logged, so there's nothing yet to weight concepts, shapes or bridge styles by.
-Silence is neutral, not a signal against anything shown. Revisit once the first
-replies come in.
+Two weeks logged, one with real signal. Week of 2026-10-26 (launch day) drew
+zero replies — too early to read. Week of 2026-11-02 drew 5 deepens and 5
+bridges, but every one of them landed on 11-02 or 11-03; nothing from
+11-04 through 11-08 drew a reply at all.
+
+**What landed:** every card deepened this week also got bridged — radical
+honesty (the divorce-lawyer prenup card), illusion of explanatory depth (the
+zipper card), cognitive fluency (pronounceable tickers), narrative fallacy
+(Nintendo's taxis-and-love-hotels detour), and cross-domain transfer (the
+B17-crash checklist). One card, boredom aversion (the "shocked rather than
+think" study), was bridged with no deepen logged first — straight to bridge.
+The three deepens from the week before (self-imposed constraint/Costco,
+supernormal stimulus/Tinbergen, jidoka/Toyoda's loom) got no bridge or use.
+
+**Concepts with repeat attention:** radical-honesty, illusion-of-explanatory-
+depth, cognitive-fluency and narrative-fallacy each got a deepen and a bridge
+in the same week — the strongest read so far on which concepts are "big
+topics" worth returning to.
+
+**Shapes landing:** every signal this week came from shape 8 (unexpected
+claim), 9 (unfamiliar concept), 5 (unknown origin), 7 (far-field) or 2
+(shocking number). Shape 9 drew the most touches (zipper and pronounceable
+tickers, both deepened and bridged).
+
+**Pools:** five of six touched cards were psychology; the sixth (Nintendo) was
+founders. Marketing has drawn zero signals across both weeks — not evidence
+against marketing, just no replies on a marketing card yet.
+
+**The gap:** nothing has been marked `used` in either week. Deepening and
+bridging are real; using is still zero. One week of real signal isn't enough
+to invoke the three-week warning, but it's the thing to watch next.
