@@ -235,3 +235,17 @@ promotes ones that keep producing kept cards. Format as above, plus:
 - Feed: none
 - Reach: web search `site:podscripts.co` + show name and episode, or WebFetch the show's transcript page directly.
 - Discovered: 2026-11-03, from the week's Modern Wisdom transcript cards. Promoted: 2026-11-08 (kept cards on 2+ days).
+
+### thefashionlaw.com
+- Type: Fashion-industry legal trade press · Pool: Marketing, Founders · Shapes: 1, 5
+- Status: active. Produced kept cards on two separate days (2026-11-02 and 2026-11-10).
+- Feed: none found.
+- Reach: web search `site:thefashionlaw.com` + topic, or WebFetch the article page directly.
+- Discovered: 2026-11-02, from a fashion trade-press find. Promoted: 2026-11-15 (kept cards on 2+ days).
+
+### gwern.net
+- Type: Academic-paper mirror / long-form essay archive · Pool: All three · Shapes: 2, 9, Any
+- Status: active. Produced kept cards on two separate days (2026-11-08 and 2026-11-13).
+- Feed: none found.
+- Reach: web search `site:gwern.net` + topic, or WebFetch the page directly.
+- Discovered: 2026-11-08, from an academic-paper mirror find. Promoted: 2026-11-15 (kept cards on 2+ days).
