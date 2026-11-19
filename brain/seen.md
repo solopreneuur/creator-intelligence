@@ -520,3 +520,33 @@ Format: `- YYYY-MM-DD · <card id> · <the find in a few words> · <source link>
 - 2026-11-18 · 2026-11-18-29-217-investors-said-no · 217 of 242 investors rejected Howard Schultz's espresso-bar pitch · https://finance.yahoo.com/news/starbucks-howard-schultz-moved-seattle-153007171.html
 - 2026-11-18 · 2026-11-18-30-oatly-sold-shirts-mocking-its-ad · Oatly sold out "I Hated That Oatly Commercial" shirts in 24 hours after Super Bowl backlash · https://www.foxnews.com/food-drink/oatlys-super-bowl-commercial-shirt-haters-out-stock-24-hours.amp
 
+- 2026-11-19 · 2026-11-19-01-fedex-blackjack-bet · FedEx's Fred Smith won $27,000 at blackjack with the company's last $5,000 · https://247wallst.com/investing/2026/10/18/by-1973-a-vietnam-vets-logistics-company-was-down-to-its-last-5000-the-former-marine-took-the-5000-to-a-vegas-blackjack-table-and-made-enough-to-keep-the-company-going-five-decades-later-fed/
+- 2026-11-19 · 2026-11-19-02-casio-cigarette-ring-calculator · Casio's first calculator was funded by a cigarette-holder ring · https://www.nippon.com/en/guide-to-japan/gu900251/
+- 2026-11-19 · 2026-11-19-03-qr-code-patent-giveaway · Denso Wave patented the QR code but permanently waived enforcement · https://www.qrcode-tiger.com/qr-code-inventor-masahiro-hara-interview
+- 2026-11-19 · 2026-11-19-04-disney-hides-queue-length · Space Mountain's queue hides line length, not duration · https://www.mentalfloss.com/article/627400/psychology-behind-disney-parks-line-design
+- 2026-11-19 · 2026-11-19-05-ai-delegation-honesty-collapse · Delegating to an AI dropped honesty from 95% to 12% · https://www.nature.com/articles/s41586-025-09505-x
+- 2026-11-19 · 2026-11-19-06-moral-licensing-honest-confession · Priming good deeds raised honest piracy admission by 42% · https://www.tandfonline.com/doi/full/10.1080/01639625.2025.2598353
+- 2026-11-19 · 2026-11-19-07-revolut-ignored-niche-mockery · Monzo/N26 called Revolut's multi-currency bet "niche" in 2017 · https://app.dealroom.co/news/note/in-2017-monzo-and-n26-called-revolut-s-model-niche-revolut-is-now-worth-115b
+- 2026-11-19 · 2026-11-19-08-nokia-100-years-paper · Nokia was a paper mill for a century before phones · https://en.wikipedia.org/wiki/History_of_Nokia
+- 2026-11-19 · 2026-11-19-09-supercell-gunshine-detour · Supercell's first game, Gunshine, flopped before Clash of Clans · https://en.wikipedia.org/wiki/Supercell_(company)
+- 2026-11-19 · 2026-11-19-10-southwest-paint-engineer · Southwest's paint engineer extends repaint cycles 5 to 7 years · https://aviationweek.com/mro/aircraft-propulsion/why-new-paints-are-more-just-pretty
+- 2026-11-19 · 2026-11-19-11-willie-king-surgical-timeout · A 1995 wrong-leg amputation invented the surgical time-out · https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2712460/
+- 2026-11-19 · 2026-11-19-12-jensen-huang-would-not-start-again · Jensen Huang says he wouldn't start Nvidia again, on How I Built This · https://singjupost.com/jensen-huang-the-man-behind-nvidia-april-2026-transcript/
+- 2026-11-19 · 2026-11-19-13-twitter-odeo-thingy · Twitter's earliest archived homepage had no clear category · https://www.firstversions.com/2015/07/twitter.html
+- 2026-11-19 · 2026-11-19-14-ryanair-owns-worst-airline · Ryanair trolls its own "worst airline" reputation on TikTok · https://contenthacked.com/teardowns/the-villain-arc-how-ryanair-weaponized-self-deprecation-to-dominate-tiktok-trave-4go7
+- 2026-11-19 · 2026-11-19-15-ikea-fake-luxury-kitchen · IKEA invented a fake luxury kitchen brand to mock the category · https://www.marketing-beat.co.uk/2024/01/16/ikea-pretentiousness-rivals/
+- 2026-11-19 · 2026-11-19-16-linktree-logo-to-button · Linktree swapped its logo for a CTA button, nearly doubled signups · https://www.lennysnewsletter.com/p/how-to-make-an-impact-in-your-first
+- 2026-11-19 · 2026-11-19-17-hubspot-ai-citation-rewrite · HubSpot's grammar-only rewrite raised AI citations 642% · https://blog.hubspot.com/marketing/how-simple-semantics-increased-our-ai-citations-by-642-new-results
+- 2026-11-19 · 2026-11-19-18-germany-sunday-shop-ban · Germany's Ladenschlussgesetz bans most Sunday retail nationwide · https://en.wikipedia.org/wiki/Ladenschlussgesetz
+- 2026-11-19 · 2026-11-19-19-fdj-lottery-jingle-shazam · FDJ's lottery sonic identity gets Shazamed 5x the average rate · https://www.sixiemeson.com/our-work/sonic-branding/fdj-sonic-identity/
+- 2026-11-19 · 2026-11-19-20-f1-undercut-two-laps · F1's pit-stop undercut only works committing two laps, not one · https://www.formuladream.app/blog/f1-undercut-measured
+- 2026-11-19 · 2026-11-19-21-belgium-tax-letter-experiment · Belgium tested deterrence vs civic-pride tax letters on 6.5M people · https://cepr.org/voxeu/columns/how-improve-tax-compliance-evidence-population-wide-experiments-belgium
+- 2026-11-19 · 2026-11-19-22-pakistan-vaccine-robocall · Twice-weekly robocalls lifted Pakistani child vaccination 30% · https://arxiv.org/abs/2209.06624
+- 2026-11-19 · 2026-11-19-23-bottom-dollar-effect · The bottom-dollar effect: your last dollar poisons the purchase · https://thedecisionlab.com/biases/bottom-dollar-effect
+- 2026-11-19 · 2026-11-19-24-category-size-bias · Category size bias: a bigger pile of options feels luckier · https://thedecisionlab.com/biases/category-size-bias
+- 2026-11-19 · 2026-11-19-25-illusory-truth-sari-kilt · Illusory truth effect: repeating "sari" made people doubt "kilt" · https://en.wikipedia.org/wiki/Illusory_truth_effect
+- 2026-11-19 · 2026-11-19-26-decoy-effect-3-6-million-wine · The decoy effect shrinks to ~1% lift in a 3.6M-purchase field test · https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12371001
+- 2026-11-19 · 2026-11-19-27-fake-reviews-truth-bias · Forewarning people about fake reviews barely improved detection · https://phys.org/news/2025-06-fake-online-reveals-truth-bias.html
+- 2026-11-19 · 2026-11-19-28-credit-bureau-confessional-booth · Lewis Tappan's 1841 credit agency read your finances aloud from behind a screen · https://99percentinvisible.org/episode/692-know-the-score/transcript/
+- 2026-11-19 · 2026-11-19-29-gas-pump-nozzle-no-electronics · Gas pump auto-shutoff is a fully mechanical venturi-tube sensor · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4709735
+- 2026-11-19 · 2026-11-19-30-optimizely-trusted-vendor-malware · Optimizely's compromised snippet spread malware to 178 sites, only 15% blocked it · https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/
