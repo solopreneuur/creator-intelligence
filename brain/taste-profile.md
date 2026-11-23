@@ -4,9 +4,9 @@ A plain-English model of what interests you and why. The weekly run rewrites it
 from the week's signals. You can correct it by hand at any time. About a quarter
 of each run (the wildcards) ignores this file on purpose.
 
-Last rewritten: 2026-11-15 (third weekly run; no new reply signal this week, so
-this is a light pass — the two weeks of real signal from before are still the
-whole basis for "what lands")
+Last rewritten: 2026-11-22 (fourth weekly run; no new reply signal again this
+week, so this is another light pass — the two weeks of real signal from
+2026-11-02/03 are still the whole basis for "what lands")
 
 ## What you're after
 
@@ -56,15 +56,15 @@ is the check. Quotes are the exception: real person, real clip, timestamp.
 
 ## Signals so far
 
-Three weeks logged, one with real signal. Week of 2026-10-26 (launch day) drew
+Four weeks logged, one with real signal. Week of 2026-10-26 (launch day) drew
 zero replies — too early to read. Week of 2026-11-02 drew 5 deepens and 5
 bridges, but every one of them landed on 11-02 or 11-03; nothing from
-11-04 onward drew a reply. Week of 2026-11-09 drew nothing at all — the first
-full week with zero signal of any kind. The silence now runs 12 days straight
-(2026-11-04 through 2026-11-15), covering the back half of one week and all of
-the next. Nothing below has changed as a result; silence doesn't rewrite taste,
-it just means this file is still running on two weeks of real data from
-2026-11-02/03.
+11-04 onward drew a reply. Weeks of 2026-11-09 and 2026-11-16 both drew
+nothing at all — two full weeks running with zero signal of any kind. The
+silence now runs 19 days straight (2026-11-04 through 2026-11-22), covering
+the back half of one week and the two full weeks after it. Nothing below has
+changed as a result; silence doesn't rewrite taste, it just means this file is
+still running on two weeks of real data from 2026-11-02/03.
 
 **What landed:** every card deepened this week also got bridged — radical
 honesty (the divorce-lawyer prenup card), illusion of explanatory depth (the
@@ -89,9 +89,10 @@ tickers, both deepened and bridged).
 founders. Marketing has drawn zero signals across both weeks — not evidence
 against marketing, just no replies on a marketing card yet.
 
-**The gap:** nothing has been marked `used` in any of the three weeks.
+**The gap:** nothing has been marked `used` in any of the four weeks.
 Deepening and bridging were real for one week; using is still zero. Deepening
 hasn't been consistent enough yet to invoke the specific three-week warning
-(it was 0, then 5, then 0), but the thing to watch next is the same either
-way: the daily runs keep producing cards and featuring a fifth of them, so
+(it was 0, then 5, then 0, then 0 again this week), but the thing to watch
+next is the same either way, now four weeks running: the daily runs keep
+producing cards and featuring roughly a fifth to a quarter of them, so
 supply isn't the constraint — whatever's keeping the reply silent is.
