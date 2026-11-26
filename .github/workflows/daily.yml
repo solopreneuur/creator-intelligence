@@ -1,8 +1,7 @@
 name: Creator Intelligence Daily
 
-# cron-job.org starts this through workflow_dispatch each morning.
-# The schedule below is a late backup; the already-done check makes a second
-# trigger exit in seconds.
+# Paused: no schedule, so it runs only when started by hand (Actions >
+# Run workflow). The already-done check still makes a repeat start exit fast.
 on:
   workflow_dispatch:
     inputs:
@@ -10,9 +9,6 @@ on:
         description: "Run even if today's issue already exists"
         type: boolean
         default: false
-  schedule:
-    - cron: "45 6 * * *"
-      timezone: "America/New_York"
 
 permissions:
   contents: write
